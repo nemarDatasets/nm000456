@@ -1,0 +1,31 @@
+{
+  "Name": "Human-AI co-managing epilepsy: seizure-detection model outputs (deposit intermediate_data)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-NC-SA-4.0",
+  "Authors": [
+    "Haoer Shi",
+    "Zack Goldblum",
+    "William Ojemann",
+    "Carlos Aguila",
+    "Kerry Nix",
+    "Katherine Walsh",
+    "Sarah Lavelle",
+    "Kathryn Davis",
+    "Nishant Sinha",
+    "Erin Conrad",
+    "Brian Litt"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Human-AI seizure detection pipeline (baseline and patient/clinician-feedback fine-tuned models)",
+      "Description": "Goldblum, Shi et al., medRxiv 2026, doi:10.64898/2026.01.26.26344234; files as deposited in Pennsieve 696 v2 intermediate_data, timestamps day -> 01"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.26275/xbu9-ulpn",
+      "URL": "https://discover.pennsieve.io/datasets/696/version/2"
+    }
+  ]
+}

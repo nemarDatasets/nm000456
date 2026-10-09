@@ -1,0 +1,31 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+778.355	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+5732.996	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7417.0	n/a	medication	n/a	n/a	polyethylene glycol packet 17 g	17.0	g	n/a	n/a	medications.csv
+9997.0	n/a	medication	n/a	n/a	vitamin B-12 tablet 3,000 mcg	3000.0	mcg	n/a	n/a	medications.csv
+9997.0	n/a	medication	n/a	n/a	lacosamide tablet 100 mg	100.0	mg	n/a	n/a	medications.csv
+9997.0	n/a	medication	n/a	n/a	apixaban tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+10057.0	n/a	medication	n/a	n/a	Mesalamine CP24 0.75 g	0.75	g	n/a	n/a	medications.csv
+10057.0	n/a	medication	n/a	n/a	metFORMIN tablet 500 mg	500.0	mg	n/a	n/a	medications.csv
+10177.0	n/a	medication	n/a	n/a	metoprolol SUCCINATE ER split tablet 12.5 mg	12.5	mg	n/a	n/a	medications.csv
+15367.691	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+22927.738	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+23947.683	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+30697.0	n/a	medication	n/a	n/a	ondansetron 4 mg/2 mL injection 4 mg	4.0	mg	n/a	n/a	medications.csv
+33711.292	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+35497.0	n/a	medication	n/a	n/a	cyclobenzaprine tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+40314.417	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+55597.0	n/a	medication	n/a	n/a	perampanel tablet 12 mg	12.0	mg	n/a	n/a	medications.csv
+55597.0	n/a	medication	n/a	n/a	lacosamide tablet 100 mg	100.0	mg	n/a	n/a	medications.csv
+55597.0	n/a	medication	n/a	n/a	atorvastatin tablet 40 mg	40.0	mg	n/a	n/a	medications.csv
+55597.0	n/a	medication	n/a	n/a	apixaban tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+60316.539	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+60600.386	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+62237.574	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+63010.437	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+68580.984	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+74093.007	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+74557.0	n/a	medication	n/a	n/a	cyclobenzaprine tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+77728.816	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+78185.16	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+84451.667	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv

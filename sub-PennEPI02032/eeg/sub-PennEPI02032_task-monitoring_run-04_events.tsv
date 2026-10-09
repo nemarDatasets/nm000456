@@ -1,0 +1,23 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+219.382	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+4039.992	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+5597.015	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7769.0	n/a	medication	n/a	n/a	cenobamate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+7769.0	n/a	medication	n/a	n/a	cannabidiol (EPIDIOLEX) 100 MG/ML oral solution 340 mg	340.0	mg	n/a	n/a	medications.csv
+15387.828	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+21248.605	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+26646.843	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+27612.125	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+27649.199	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+30022.75	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+31950.0	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+36033.699	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+36059.953	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+42869.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+44573.605	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+53009.0	n/a	medication	n/a	n/a	cenobamate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+53069.0	n/a	medication	n/a	n/a	cannabidiol (EPIDIOLEX) 100 MG/ML oral solution 340 mg	340.0	mg	n/a	n/a	medications.csv
+64716.609	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+65881.238	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+74046.617	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+78445.281	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv

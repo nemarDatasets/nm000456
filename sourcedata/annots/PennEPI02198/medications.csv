@@ -1,0 +1,26 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 11:50:00,2,nicotine 21 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 18:25:00,2,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 08:43:00,3,amphetamine-dextroamphetamine tablet 30 mg,30.0,mg
+2001-01-01 08:43:00,3,cariprazine capsule 1.5 mg,1.5,mg
+2001-01-01 11:05:00,3,diphenhydramine capsule 25 mg,25.0,mg
+2001-01-01 12:14:00,3,nicotine 21 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 17:10:00,3,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 17:45:00,3,diphenhydramine capsule 50 mg,50.0,mg
+2001-01-01 10:01:00,4,cariprazine capsule 1.5 mg,1.5,mg
+2001-01-01 10:18:00,4,amphetamine-dextroamphetamine tablet 30 mg,30.0,mg
+2001-01-01 12:40:00,4,nicotine 21 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 18:05:00,4,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 18:05:00,4,vodka oral liquid 50 mL,50.0,mL
+2001-01-01 18:36:00,4,vodka oral liquid 50 mL,50.0,mL
+2001-01-01 19:08:00,4,vodka oral liquid 50 mL,50.0,mL
+2001-01-01 08:54:00,5,amphetamine-dextroamphetamine tablet 30 mg,30.0,mg
+2001-01-01 08:54:00,5,cariprazine capsule 1.5 mg,1.5,mg
+2001-01-01 12:58:00,5,nicotine 21 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 17:37:00,5,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 20:35:00,5,lamoTRIgine tablet 200 mg,200.0,mg
+2001-01-01 21:56:00,5,influenza vaccine (FLUZONE;FLULAVAL) injection 0.5 mL,0.5,mL
+2001-01-01 08:53:00,6,cariprazine capsule 1.5 mg,1.5,mg
+2001-01-01 08:53:00,6,lamoTRIgine tablet 200 mg,200.0,mg
+2001-01-01 08:54:00,6,amphetamine-dextroamphetamine tablet 30 mg,30.0,mg
+2001-01-01 12:22:00,6,nicotine 21 MG/24HR patch 1 patch,1.0,patch

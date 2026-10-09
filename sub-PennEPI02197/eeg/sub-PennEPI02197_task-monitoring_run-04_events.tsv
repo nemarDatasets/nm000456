@@ -1,0 +1,19 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+179.234	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+472.484	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+725.281	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1343.75	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+6714.546	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7077.492	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+10065.914	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+11195.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+11195.0	n/a	medication	n/a	n/a	folic acid tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+11255.0	n/a	medication	n/a	n/a	vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units	2000.0	Units	n/a	n/a	medications.csv
+11795.0	n/a	medication	n/a	n/a	senna tablet 8.6 mg	8.6	mg	n/a	n/a	medications.csv
+17883.812	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+17980.007	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+27598.281	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+53435.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+80165.851	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+80581.195	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+83032.718	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv

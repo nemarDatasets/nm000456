@@ -1,0 +1,18 @@
+{
+  "acq_time": {
+    "Description": "Recording start from the EDF header. The deposit's dates were already shifted to 2001-01-<deposit day>; the day of the month is set to 01 here (privacy rule: year and month kept, day 01). Time of day unchanged."
+  },
+  "deposit_day": {
+    "Description": "Day number of the recording in the deposit (file name dayNN; equals the original shifted day of month). Same as the run label."
+  },
+  "edf_subtype": {
+    "Description": "EDF header reserved field: EDF+C (continuous), EDF+D (discontinuous, see sourcedata/edf_discontinuities.tsv) or EDF (plain EDF)."
+  },
+  "header_date_scrubbed": {
+    "Description": "yes = the EDF header was edited (startdate day -> 01 in the startdate field and the 'Startdate' recording subfield); the data records are byte-identical to the deposit file (sha256 in sourcedata/edf_provenance.tsv).",
+    "Levels": {
+      "yes": "header edited",
+      "no": "file byte-identical to the deposit file"
+    }
+  }
+}

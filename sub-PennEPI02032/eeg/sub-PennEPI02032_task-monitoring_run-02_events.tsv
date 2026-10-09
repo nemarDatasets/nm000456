@@ -1,0 +1,24 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+2317.132	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2651.32	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+4690.781	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+10474.0	n/a	medication	n/a	n/a	topiramate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+10474.0	n/a	medication	n/a	n/a	PHENobarbital 20 MG/5ML oral solution 7.52 mg	7.52	mg	n/a	n/a	medications.csv
+10474.0	n/a	medication	n/a	n/a	cenobamate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+10534.0	n/a	medication	n/a	n/a	cannabidiol (EPIDIOLEX) 100 MG/ML oral solution 340 mg	340.0	mg	n/a	n/a	medications.csv
+15927.859	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+23524.0	18.0	platform_annotation	Seizure event detected, with duration of 0.30 minutes, max seizure probability of 0.93, average seizure probability of 0.80, strength index of 3.04, the strength of a 1 minute high probability seizure is 15	n/a	n/a	n/a	n/a	no	38863.331	databricks_events.csv
+41314.0	272.0	platform_annotation	Seizure event detected, with duration of 4.47 minutes, max seizure probability of 0.99, average seizure probability of 0.79, strength index of 39.25, the strength of a 1 minute high probability seizure is 15	n/a	n/a	n/a	n/a	no	58497.401	databricks_events.csv
+41854.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+44766.0	20.0	platform_annotation	Seizure event detected, with duration of 0.33 minutes, max seizure probability of 0.98, average seizure probability of 0.88, strength index of 4.14, the strength of a 1 minute high probability seizure is 15	n/a	n/a	n/a	n/a	no	63423.574	databricks_events.csv
+53134.0	n/a	medication	n/a	n/a	cenobamate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+53134.0	n/a	medication	n/a	n/a	topiramate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+53134.0	n/a	medication	n/a	n/a	cannabidiol (EPIDIOLEX) 100 MG/ML oral solution 340 mg	340.0	mg	n/a	n/a	medications.csv
+64232.578	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+64572.773	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+64953.32	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+71131.57	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+74422.257	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+74942.792	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+75922.273	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+80777.394	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

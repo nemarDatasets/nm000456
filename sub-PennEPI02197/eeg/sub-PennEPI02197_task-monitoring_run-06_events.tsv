@@ -1,0 +1,24 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+5839.894	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+8090.621	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+9578.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+9578.0	n/a	medication	n/a	n/a	folic acid tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+9578.0	n/a	medication	n/a	n/a	vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units	2000.0	Units	n/a	n/a	medications.csv
+9578.0	n/a	medication	n/a	n/a	senna tablet 8.6 mg	8.6	mg	n/a	n/a	medications.csv
+17021.691	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+25818.144	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+27192.605	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+38554.8	74.93	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+38587.48	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+39998.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv
+40418.0	n/a	medication	n/a	n/a	acetaminophen tablet 650 mg	650.0	mg	n/a	n/a	medications.csv
+42818.0	n/a	medication	n/a	n/a	magic mouthwash (diphenhydrAMINE-MAALOX-lidocaine-simethicone) oral suspension 10 mL	10.0	mL	n/a	n/a	medications.csv
+45578.0	n/a	medication	n/a	n/a	ondansetron 4 mg/2 mL injection 4 mg	4.0	mg	n/a	n/a	medications.csv
+51698.613	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+53738.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+55238.0	n/a	medication	n/a	n/a	ibuprofen tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+71978.0	n/a	medication	n/a	n/a	acetaminophen tablet 650 mg	650.0	mg	n/a	n/a	medications.csv
+77918.0	n/a	medication	n/a	n/a	lactated ringers bolus 500 mL	500.0	mL/hr	n/a	n/a	medications.csv
+86454.609	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+86602.179	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+89300.351	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv

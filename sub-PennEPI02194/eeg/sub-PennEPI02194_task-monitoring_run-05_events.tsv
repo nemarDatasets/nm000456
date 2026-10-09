@@ -1,0 +1,27 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+2900.23	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2908.707	81.242	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+2960.89	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+3397.363	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+4196.066	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+6369.558	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7654.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+7654.0	n/a	medication	n/a	n/a	atorvastatin tablet 40 mg	40.0	mg	n/a	n/a	medications.csv
+7654.0	n/a	medication	n/a	n/a	varenicline tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+7654.0	n/a	medication	n/a	n/a	hydrochloroTHIAZIDE tablet 25 mg	25.0	mg	n/a	n/a	medications.csv
+8431.128	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+11014.0	n/a	medication	n/a	n/a	levETIRAcetam tablet 2,000 mg	2000.0	mg	n/a	n/a	medications.csv
+11181.738	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+11189.16	105.007	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+13585.628	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+14536.214	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+17885.894	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+19404.167	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+22421.457	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+25226.3	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+33540.324	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+39814.0	n/a	medication	n/a	n/a	nicotine 14 MG/24HR patch 1 patch	1.0	patch	n/a	n/a	medications.csv
+39814.0	n/a	medication	n/a	n/a	varenicline tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+58414.0	n/a	medication	n/a	n/a	levETIRAcetam tablet 1,500 mg	1500.0	mg	n/a	n/a	medications.csv
+58474.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+68977.179	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

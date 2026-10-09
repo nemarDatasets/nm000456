@@ -1,0 +1,18 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+13014.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+30534.0	n/a	medication	n/a	n/a	lamoTRIgine ER tablet 50 mg	50.0	mg	n/a	n/a	medications.csv
+30534.0	n/a	medication	n/a	n/a	gabapentin capsule 300 mg	300.0	mg	n/a	n/a	medications.csv
+30594.0	n/a	medication	n/a	n/a	levETIRAcetam TB24 750 mg	750.0	mg	n/a	n/a	medications.csv
+30594.0	n/a	medication	n/a	n/a	progesterone (PROMETRIUM) capsule 100 mg	100.0	mg	n/a	n/a	medications.csv
+40367.585	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+41855.796	79.704	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+42553.144	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+43211.101	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+44413.312	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+45440.714	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+50513.117	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+52783.195	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+52888.929	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+53009.773	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+53221.25	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+53387.406	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv

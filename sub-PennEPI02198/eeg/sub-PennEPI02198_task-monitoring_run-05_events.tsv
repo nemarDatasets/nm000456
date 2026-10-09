@@ -1,0 +1,29 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+79.816	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+634.746	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1000.058	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1369.214	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+3706.941	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+4798.238	37.734	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+10414.0	n/a	medication	n/a	n/a	amphetamine-dextroamphetamine tablet 30 mg	30.0	mg	n/a	n/a	medications.csv
+10414.0	n/a	medication	n/a	n/a	cariprazine capsule 1.5 mg	1.5	mg	n/a	n/a	medications.csv
+11934.058	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+13844.652	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+15704.214	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+18862.378	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+21244.98	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+25054.0	n/a	medication	n/a	n/a	nicotine 21 MG/24HR patch 1 patch	1.0	patch	n/a	n/a	medications.csv
+33308.031	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+35157.73	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+35857.925	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+36286.23	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+36415.007	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+41794.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+44194.64	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+52474.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+57334.0	n/a	medication	n/a	n/a	influenza vaccine (FLUZONE;FLULAVAL) injection 0.5 mL	0.5	mL	n/a	n/a	medications.csv
+59947.972	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+66970.48	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+75855.316	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+86414.117	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+89681.101	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv

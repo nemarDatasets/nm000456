@@ -1,0 +1,21 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+1580.148	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1932.273	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+43479.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+66496.417	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+67370.171	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+67838.582	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+69165.117	90.992	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+70739.359	89.133	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+70766.402	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+72998.968	382.399	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+73082.652	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+73599.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv
+80869.523	92.547	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+80916.351	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+81339.843	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+82287.5	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+82779.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv
+84306.789	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+84442.742	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+85001.64	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv

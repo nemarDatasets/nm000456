@@ -1,0 +1,21 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+53.242	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+65.0	n/a	medication	n/a	n/a	amphetamine-dextroamphetamine tablet 30 mg	30.0	mg	n/a	n/a	medications.csv
+65.0	n/a	medication	n/a	n/a	cariprazine capsule 1.5 mg	1.5	mg	n/a	n/a	medications.csv
+1863.445	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2200.39	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2497.976	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2792.921	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+3304.351	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+5372.14	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+6299.203	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+6390.953	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+8585.0	n/a	medication	n/a	n/a	diphenhydramine capsule 25 mg	25.0	mg	n/a	n/a	medications.csv
+12725.0	n/a	medication	n/a	n/a	nicotine 21 MG/24HR patch 1 patch	1.0	patch	n/a	n/a	medications.csv
+30485.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+32585.0	n/a	medication	n/a	n/a	diphenhydramine capsule 50 mg	50.0	mg	n/a	n/a	medications.csv
+57498.425	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+68830.75	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+69171.703	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+72975.046	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+73360.542	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv

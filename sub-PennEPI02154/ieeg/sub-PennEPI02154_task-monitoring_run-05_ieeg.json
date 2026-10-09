@@ -1,0 +1,20 @@
+{
+  "TaskName": "monitoring",
+  "TaskDescription": "Continuous inpatient video-EEG monitoring in the Penn epilepsy monitoring unit while the patient used a conversational AI agent (smartphone) for seizure reporting and feedback (Goldblum, Shi et al., medRxiv 2026).",
+  "InstitutionName": "Hospital of the University of Pennsylvania",
+  "Manufacturer": "n/a",
+  "SamplingFrequency": 1024.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "RecordingDuration": 86378.25,
+  "RecordingType": "continuous",
+  "ECGChannelCount": 2,
+  "EOGChannelCount": 0,
+  "MiscChannelCount": 49,
+  "TriggerChannelCount": 1,
+  "iEEGReference": "n/a",
+  "SEEGChannelCount": 96,
+  "ECOGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "ElectrodeManufacturer": "n/a"
+}

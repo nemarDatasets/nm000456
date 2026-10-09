@@ -1,0 +1,26 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+7939.558	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+11536.308	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+20073.871	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+20563.574	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+23458.0	18.0	platform_annotation	Seizure event detected, with duration of 0.30 minutes, max seizure probability of 0.93, average seizure probability of 0.80, strength index of 3.02, the strength of a 1 minute high probability seizure is 15	n/a	n/a	n/a	n/a	no	41915.792	databricks_events.csv
+24798.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+30277.871	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+34753.261	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+40518.0	n/a	medication	n/a	n/a	PHENobarbital 20 MG/5ML oral solution 7.52 mg	7.52	mg	n/a	n/a	medications.csv
+40518.0	n/a	medication	n/a	n/a	cenobamate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+40518.0	n/a	medication	n/a	n/a	cannabidiol (EPIDIOLEX) 100 MG/ML oral solution 340 mg	340.0	mg	n/a	n/a	medications.csv
+40578.0	n/a	medication	n/a	n/a	topiramate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+44077.988	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+45629.542	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+46034.316	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+46307.542	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+46747.339	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+48595.339	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+48922.738	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+50397.582	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+51104.933	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+52477.429	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+60664.375	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+65314.546	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+68155.105	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv

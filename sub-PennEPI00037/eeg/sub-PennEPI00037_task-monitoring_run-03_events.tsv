@@ -1,0 +1,16 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+8438.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 300 mg	300.0	mg	n/a	n/a	medications.csv
+21458.0	n/a	medication	n/a	n/a	levETIRAcetam tablet 1,000 mg	1000.0	mg	n/a	n/a	medications.csv
+43358.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+49740.57	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+55538.0	n/a	medication	n/a	n/a	levETIRAcetam tablet 1,000 mg	1000.0	mg	n/a	n/a	medications.csv
+55538.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 400 mg	400.0	mg	n/a	n/a	medications.csv
+58688.031	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+63208.046	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+69471.394	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+72211.187	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+77201.949	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+77221.378	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+77727.996	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+83407.195	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+84041.617	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

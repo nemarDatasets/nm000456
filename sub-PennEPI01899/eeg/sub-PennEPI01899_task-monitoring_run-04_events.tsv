@@ -1,0 +1,9 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+15671.05	35.805	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+15794.058	31.899	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+15895.785	29.882	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+16129.019	179.609	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+16479.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+16539.0	n/a	medication	n/a	n/a	CLONAZepam (KlonoPIN) disintegrating tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+17730.425	44.828	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+21999.0	n/a	medication	n/a	n/a	LORAZepam tablet 1 mg	1.0	mg	n/a	n/a	medications.csv

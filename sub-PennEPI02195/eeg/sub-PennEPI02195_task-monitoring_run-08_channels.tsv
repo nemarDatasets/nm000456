@@ -1,0 +1,47 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	description
+Fp1	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+F7	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+T3	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+T5	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+O1	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+F3	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+C3	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+P3	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+A1	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+Fz	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+Cz	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+Fp2	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+F8	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+T4	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+T6	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+O2	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+F4	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+C4	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+P4	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+A2	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+Fpz	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+Pz	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+LOC	EOG	µV	n/a	n/a	256.0	n/a	good	left outer canthus EOG
+ROC	EOG	µV	n/a	n/a	256.0	n/a	good	right outer canthus EOG
+EKG	ECG	µV	n/a	n/a	256.0	n/a	good	n/a
+EKG2	ECG	µV	n/a	n/a	256.0	n/a	good	n/a
+F9	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+F10	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+T9	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+T10	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+P9	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+P10	EEG	µV	n/a	n/a	256.0	n/a	good	n/a
+X11	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+X12	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+X13	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+X14	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+X15	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+X16	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+X17	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+X18	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+DC1	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+DC2	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+DC3	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+DC4	MISC	µV	n/a	n/a	256.0	n/a	good	n/a
+OSAT	MISC	%	n/a	n/a	256.0	n/a	good	oxygen saturation (pulse oximetry)
+PR	MISC	bpm	n/a	n/a	256.0	n/a	good	pulse rate

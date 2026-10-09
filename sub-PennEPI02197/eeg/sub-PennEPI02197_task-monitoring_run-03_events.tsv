@@ -1,0 +1,20 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+47.679	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+175.46	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2489.796	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7716.0	n/a	medication	n/a	n/a	vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units	2000.0	Units	n/a	n/a	medications.csv
+7716.0	n/a	medication	n/a	n/a	folic acid tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+7776.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+8556.0	n/a	medication	n/a	n/a	senna tablet 8.6 mg	8.6	mg	n/a	n/a	medications.csv
+13907.039	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+14871.382	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+17975.507	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+18400.64	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+22780.632	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+24252.125	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+30464.0	44.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	yes	30889.257	databricks_events.csv
+49818.0	30.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	yes	64119.050	databricks_events.csv
+49858.0	22.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	uncertain	51900.719	databricks_events.csv
+53076.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+58114.351	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+59668.953	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

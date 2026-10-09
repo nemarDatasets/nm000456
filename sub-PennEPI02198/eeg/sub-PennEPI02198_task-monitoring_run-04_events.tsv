@@ -1,0 +1,27 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+638.285	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+815.644	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1284.566	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1331.207	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+5800.746	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+6116.542	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+10146.042	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+10953.683	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+14435.0	n/a	medication	n/a	n/a	cariprazine capsule 1.5 mg	1.5	mg	n/a	n/a	medications.csv
+15455.0	n/a	medication	n/a	n/a	amphetamine-dextroamphetamine tablet 30 mg	30.0	mg	n/a	n/a	medications.csv
+16613.378	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+17078.558	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+17161.113	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+19526.332	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+20576.074	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+20971.613	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+23975.0	n/a	medication	n/a	n/a	nicotine 21 MG/24HR patch 1 patch	1.0	patch	n/a	n/a	medications.csv
+43475.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+43475.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+45335.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+47255.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+62063.988	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+67781.882	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+68302.582	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+69954.925	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+75766.722	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

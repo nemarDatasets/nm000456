@@ -1,0 +1,22 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+1398.246	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2425.417	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+8314.0	n/a	medication	n/a	n/a	hydrochloroTHIAZIDE tablet 25 mg	25.0	mg	n/a	n/a	medications.csv
+8314.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+8374.0	n/a	medication	n/a	n/a	varenicline tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+19264.0	46.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	uncertain	35031.521	databricks_events.csv
+26246.0	66.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	no	42984.545	databricks_events.csv
+39994.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+39994.0	n/a	medication	n/a	n/a	nicotine 14 MG/24HR patch 1 patch	1.0	patch	n/a	n/a	medications.csv
+40114.0	n/a	medication	n/a	n/a	varenicline tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+45034.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+50734.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+52174.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+67221.667	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+69529.136	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+69576.371	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+74173.347	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+79285.75	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+79551.019	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+81966.785	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+84265.75	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

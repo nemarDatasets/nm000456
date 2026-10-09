@@ -1,0 +1,156 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 11:49:00,7,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 11:16:00,7,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 08:59:00,7,lamoTRIgine tablet 300 mg,300.0,mg
+2001-01-01 08:29:00,7,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 08:28:00,7,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:28:00,7,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:25:00,7,DULoxetine (CYMBALTA) DR capsule 120 mg,120.0,mg
+2001-01-01 06:52:00,7,sodium chloride 0.9 % infusion,85.0,mL/hr
+2001-01-01 05:14:20,7,sodium chloride 0.9 % infusion,85.0,mL/hr
+2001-01-01 05:14:19,7,sodium chloride 0.9 % infusion,0.0,mL/hr
+2001-01-01 01:26:00,7,sodium chloride 0.9 % infusion,85.0,mL/hr
+2001-01-01 01:15:24,7,sodium chloride 0.9 % infusion,85.0,mL/hr
+2001-01-01 01:08:00,7,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 21:47:00,6,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 21:03:00,6,senna tablet 8.6 mg,8.6,mg
+2001-01-01 21:02:00,6,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 18:51:00,6,lamoTRIgine tablet 250 mg,250.0,mg
+2001-01-01 18:51:00,6,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 18:51:00,6,cloBAZam tablet 10 mg,10.0,mg
+2001-01-01 17:01:00,6,"levETIRAcetam 500 MG/5ML injection 3,000 mg",3000.0,mg
+2001-01-01 16:28:00,6,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 16:03:00,6,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 16:03:00,6,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 14:15:00,6,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 14:09:00,6,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 12:29:00,6,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 12:28:00,6,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 07:59:00,6,senna tablet 8.6 mg,8.6,mg
+2001-01-01 07:56:00,6,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 07:56:00,6,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 07:56:00,6,DULoxetine (CYMBALTA) DR capsule 120 mg,120.0,mg
+2001-01-01 07:56:00,6,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 06:30:00,6,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 06:13:00,6,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 02:59:00,6,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 21:10:00,5,senna tablet 8.6 mg,8.6,mg
+2001-01-01 21:09:00,5,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 21:09:00,5,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 21:09:00,5,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 16:28:00,5,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 16:23:00,5,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 13:51:00,5,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 13:51:00,5,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 08:52:00,5,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:48:00,5,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 08:48:00,5,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:48:00,5,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 08:47:00,5,DULoxetine (CYMBALTA) DR capsule 120 mg,120.0,mg
+2001-01-01 08:47:00,5,lamoTRIgine tablet 75 mg,75.0,mg
+2001-01-01 05:51:00,5,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 05:50:00,5,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 04:59:00,5,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 01:15:00,5,bisacodyl suppository 10 mg,10.0,mg
+2001-01-01 00:10:00,5,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 21:12:00,4,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 21:05:00,4,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 21:05:00,4,lamoTRIgine tablet 75 mg,75.0,mg
+2001-01-01 21:05:00,4,senna tablet 8.6 mg,8.6,mg
+2001-01-01 19:54:00,4,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 19:53:00,4,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 16:42:00,4,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 12:48:00,4,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 12:48:00,4,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 12:48:00,4,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 08:11:00,4,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:11:00,4,lamoTRIgine tablet 150 mg,150.0,mg
+2001-01-01 08:11:00,4,polyethylene glycol packet 17 g,17.0,g
+2001-01-01 08:11:00,4,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:11:00,4,DULoxetine (CYMBALTA) DR capsule 120 mg,120.0,mg
+2001-01-01 07:09:00,4,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 07:09:00,4,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 04:55:00,4,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 04:55:00,4,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 00:22:00,4,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 20:52:00,3,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 20:52:00,3,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 20:52:00,3,senna tablet 8.6 mg,8.6,mg
+2001-01-01 20:51:00,3,polyethylene glycol packet 17 g,17.0,g
+2001-01-01 20:51:00,3,lamoTRIgine tablet 150 mg,150.0,mg
+2001-01-01 19:29:00,3,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 19:29:00,3,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 16:00:00,3,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 15:59:00,3,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 13:47:00,3,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 13:47:00,3,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 12:18:00,3,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 08:02:00,3,DULoxetine (CYMBALTA) DR capsule 120 mg,120.0,mg
+2001-01-01 08:02:00,3,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:02:00,3,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:02:00,3,lamoTRIgine tablet 150 mg,150.0,mg
+2001-01-01 07:25:00,3,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 07:25:00,3,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 05:47:00,3,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 05:46:00,3,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 05:46:00,3,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 00:52:00,3,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 00:52:00,3,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 21:22:00,2,senna tablet 8.6 mg,8.6,mg
+2001-01-01 21:22:00,2,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 21:22:00,2,lamoTRIgine tablet 250 mg,250.0,mg
+2001-01-01 21:21:00,2,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 21:21:00,2,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 17:26:00,2,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 16:02:00,2,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 16:01:00,2,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 12:49:00,2,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 12:49:00,2,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 12:49:00,2,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 08:08:00,2,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 08:08:00,2,lamoTRIgine tablet 300 mg,300.0,mg
+2001-01-01 08:08:00,2,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:08:00,2,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:08:00,2,DULoxetine (CYMBALTA) DR capsule 120 mg,120.0,mg
+2001-01-01 08:07:00,2,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 05:14:00,2,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 05:14:00,2,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 01:12:00,2,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 21:48:00,1,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 21:48:00,1,lamoTRIgine tablet 250 mg,250.0,mg
+2001-01-01 21:48:00,1,senna tablet 8.6 mg,8.6,mg
+2001-01-01 21:47:00,1,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 20:52:00,1,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 20:52:00,1,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 16:54:00,1,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 13:07:00,1,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 13:07:00,1,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 10:42:00,1,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 10:42:00,1,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 08:26:00,1,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:26:00,1,LORAZepam tablet 1 mg,1.0,mg
+2001-01-01 08:25:00,1,DULoxetine (CYMBALTA) DR capsule 120 mg,120.0,mg
+2001-01-01 08:25:00,1,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:25:00,1,lamoTRIgine tablet 300 mg,300.0,mg
+2001-01-01 06:13:00,1,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 06:03:00,1,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 06:03:00,1,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 02:29:00,1,cyclobenzaprine tablet 10 mg,10.0,mg
+2001-01-01 02:25:10,1,sodium chloride 0.9 % infusion,85.0,mL/hr
+2001-01-01 02:13:00,1,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 00:19:00,1,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 00:13:00,1,oxyCODONE IR tablet 10 mg,10.0,mg
+2000-12-01 23:42:00,31,sodium chloride 0.9 % infusion,85.0,mL/hr
+2000-12-01 21:56:00,31,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2000-12-01 20:31:00,31,senna tablet 8.6 mg,8.6,mg
+2000-12-01 20:31:00,31,LORAZepam tablet 1 mg,1.0,mg
+2000-12-01 20:31:00,31,lamoTRIgine tablet 250 mg,250.0,mg
+2000-12-01 19:46:00,31,oxyCODONE IR tablet 10 mg,10.0,mg
+2000-12-01 19:46:00,31,acetaminophen tablet 650 mg,650.0,mg
+2000-12-01 16:31:00,31,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2000-12-01 16:31:00,31,dexAMETHasone tablet 2 mg,2.0,mg
+2000-12-01 15:41:00,31,oxyCODONE IR tablet 10 mg,10.0,mg
+2000-12-01 13:30:00,31,sodium chloride 0.9 % infusion,85.0,mL/hr
+2000-12-01 12:00:51,31,sodium chloride 0.9 % infusion,85.0,mL/hr
+2000-12-01 12:00:41,31,sodium chloride 0.9 % infusion,85.0,mL/hr
+2001-01-01 18:11:00,7,oxyCODONE IR tablet 10 mg,10.0,mg

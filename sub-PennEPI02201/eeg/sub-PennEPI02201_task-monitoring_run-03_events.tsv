@@ -1,0 +1,17 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+99.335	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+106.718	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1319.945	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1775.757	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+4608.843	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+8560.0	n/a	medication	n/a	n/a	medication not found in pennchart 1 g	1.0	g	n/a	n/a	medications.csv
+8560.0	n/a	medication	n/a	n/a	multivitamin tablet 1 tablet	1.0	tablet	n/a	n/a	medications.csv
+42460.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+51040.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+53980.0	n/a	medication	n/a	n/a	Magnesium Glycinate CAPS 1 capsule	1.0	capsule	n/a	n/a	medications.csv
+54160.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+57580.0	n/a	medication	n/a	n/a	vodka oral liquid 50 mL	50.0	mL	n/a	n/a	medications.csv
+79448.062	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+79450.402	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+79467.96	163.11	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+82660.0	n/a	medication	n/a	n/a	progesterone (PROMETRIUM) capsule 100 mg	100.0	mg	n/a	n/a	medications.csv

@@ -1,0 +1,45 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 08:26:00,6,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 08:25:00,6,atorvastatin tablet 40 mg,40.0,mg
+2001-01-01 08:25:00,6,varenicline tablet 1 mg,1.0,mg
+2001-01-01 08:25:00,6,hydrochloroTHIAZIDE tablet 25 mg,25.0,mg
+2001-01-01 08:25:00,6,"levETIRAcetam tablet 1,500 mg",1500.0,mg
+2001-01-01 22:15:00,5,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 22:14:00,5,"levETIRAcetam tablet 1,500 mg",1500.0,mg
+2001-01-01 17:04:00,5,nicotine 14 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 17:04:00,5,varenicline tablet 1 mg,1.0,mg
+2001-01-01 09:04:00,5,"levETIRAcetam tablet 2,000 mg",2000.0,mg
+2001-01-01 08:08:00,5,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 08:08:00,5,atorvastatin tablet 40 mg,40.0,mg
+2001-01-01 08:08:00,5,varenicline tablet 1 mg,1.0,mg
+2001-01-01 08:08:00,5,hydrochloroTHIAZIDE tablet 25 mg,25.0,mg
+2001-01-01 03:42:00,5,LORAZepam 2 mg/mL injection 2 mg,2.0,mg
+2001-01-01 23:08:00,4,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 18:05:00,4,varenicline tablet 1 mg,1.0,mg
+2001-01-01 18:05:00,4,nicotine 14 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 08:33:00,4,varenicline tablet 1 mg,1.0,mg
+2001-01-01 08:32:00,4,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 08:32:00,4,atorvastatin tablet 40 mg,40.0,mg
+2001-01-01 08:32:00,4,hydrochloroTHIAZIDE tablet 25 mg,25.0,mg
+2001-01-01 20:30:00,3,vodka oral liquid 50 mL,50.0,mL
+2001-01-01 20:06:00,3,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 18:31:00,3,vodka oral liquid 50 mL,50.0,mL
+2001-01-01 17:09:00,3,varenicline tablet 1 mg,1.0,mg
+2001-01-01 17:07:00,3,vodka oral liquid 50 mL,50.0,mL
+2001-01-01 17:07:00,3,nicotine 14 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 08:20:00,3,varenicline tablet 1 mg,1.0,mg
+2001-01-01 08:19:00,3,hydrochloroTHIAZIDE tablet 25 mg,25.0,mg
+2001-01-01 08:19:00,3,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 20:38:00,2,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 17:55:00,2,varenicline tablet 1 mg,1.0,mg
+2001-01-01 17:55:00,2,nicotine 14 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 09:51:00,2,hydrochloroTHIAZIDE tablet 25 mg,25.0,mg
+2001-01-01 09:50:00,2,varenicline tablet 1 mg,1.0,mg
+2001-01-01 09:50:00,2,levETIRAcetam tablet 750 mg,750.0,mg
+2001-01-01 09:50:00,2,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 22:22:00,1,varenicline tablet 1 mg,1.0,mg
+2001-01-01 21:12:00,1,varenicline tablet 1 mg,1.0,mg
+2001-01-01 20:52:00,1,levETIRAcetam tablet 750 mg,750.0,mg
+2001-01-01 20:52:00,1,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 18:00:00,1,nicotine 14 MG/24HR patch 1 patch,1.0,patch
+2001-01-01 18:00:00,1,hydrochloroTHIAZIDE tablet 25 mg,25.0,mg

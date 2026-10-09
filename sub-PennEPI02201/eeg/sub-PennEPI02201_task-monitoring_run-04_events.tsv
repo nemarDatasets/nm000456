@@ -1,0 +1,25 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+4012.82	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+4019.875	162.601	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+4687.855	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+8683.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv
+11803.0	n/a	medication	n/a	n/a	multivitamin tablet 1 tablet	1.0	tablet	n/a	n/a	medications.csv
+12043.0	n/a	medication	n/a	n/a	estradiol 0.05 mg/24 hr patch 1 patch	1.0	patch	n/a	n/a	medications.csv
+12103.0	n/a	medication	n/a	n/a	medication not found in pennchart 1 g	1.0	g	n/a	n/a	medications.csv
+22721.0	28.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	no	23973.455	databricks_events.csv
+22783.0	n/a	medication	n/a	n/a	levETIRAcetam 500 MG/5ML injection 1,000 mg	1000.0	mg	n/a	n/a	medications.csv
+25423.0	n/a	medication	n/a	n/a	lamoTRIgine ER tablet 100 mg	100.0	mg	n/a	n/a	medications.csv
+34873.125	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+41319.57	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+41413.0	32.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	no	42098.785	databricks_events.csv
+41833.0	56.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	no	43574.165	databricks_events.csv
+43063.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+45687.898	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+46159.0	42.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	no	49184.747	databricks_events.csv
+47802.765	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+51163.0	n/a	medication	n/a	n/a	gabapentin capsule 300 mg	300.0	mg	n/a	n/a	medications.csv
+51283.0	n/a	medication	n/a	n/a	lamoTRIgine ER tablet 150 mg	150.0	mg	n/a	n/a	medications.csv
+51343.0	n/a	medication	n/a	n/a	levETIRAcetam TB24 750 mg	750.0	mg	n/a	n/a	medications.csv
+51403.0	n/a	medication	n/a	n/a	Magnesium Glycinate CAPS 1 capsule	1.0	capsule	n/a	n/a	medications.csv
+51463.0	n/a	medication	n/a	n/a	progesterone (PROMETRIUM) capsule 100 mg	100.0	mg	n/a	n/a	medications.csv
+78966.781	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv

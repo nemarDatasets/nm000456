@@ -1,0 +1,45 @@
+{
+  "onset": {
+    "Description": "Seconds from the EDF start time (header start, wall clock) to the event, computed from the deposit annotation CSV timestamps before date scrubbing. For EDF+D (discontinuous) files this is wall-clock time, not sample count (gaps: sourcedata/edf_discontinuities.tsv).",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Stop minus start where the source gives a stop time, else n/a.",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Event family (source CSV).",
+    "Levels": {
+      "seizure": "seizure_events.csv (clinically annotated seizure)",
+      "patient_event": "patient_events.csv (patient push-button / clinical event)",
+      "sleep_stage": "sleep.csv (sleep-stage annotation onset)",
+      "medication": "medications.csv (medication administration)",
+      "platform_annotation": "databricks_events.csv (patient annotation through the human-AI platform)"
+    }
+  },
+  "event_text": {
+    "Description": "Free-text comment / description from the source CSV (Comment, description or annotation column)."
+  },
+  "sleep_stage": {
+    "Description": "sleep.csv Stage"
+  },
+  "medication": {
+    "Description": "medications.csv medname"
+  },
+  "dose": {
+    "Description": "medications.csv medval"
+  },
+  "dose_unit": {
+    "Description": "medications.csv units"
+  },
+  "response": {
+    "Description": "databricks_events.csv classified_response"
+  },
+  "response_onset": {
+    "Description": "databricks_events.csv response_time (when the patient answered the platform's seizure query), as seconds from the EDF start time, like onset. The absolute timestamp stays only in sourcedata/annots (day set to 01). May exceed the recording span.",
+    "Units": "s"
+  },
+  "source": {
+    "Description": "Source CSV in raw_data/annots/<PennEPI id>/ (scrubbed copy in sourcedata/annots/)."
+  }
+}

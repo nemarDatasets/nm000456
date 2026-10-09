@@ -1,0 +1,120 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 12:58:00,1,sodium chloride 0.9 % infusion,0.0,mL/hr
+2001-01-01 14:23:00,1,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 15:03:00,1,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 16:50:00,1,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 16:50:00,1,oxyCODONE IR tablet 5 mg,5.0,mg
+2001-01-01 21:19:00,1,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 21:19:00,1,gabapentin capsule 800 mg,800.0,mg
+2001-01-01 21:19:00,1,lamoTRIgine tablet 50 mg,50.0,mg
+2001-01-01 21:19:00,1,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 21:20:00,1,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 00:21:00,2,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 06:22:00,2,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 08:59:00,2,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 09:00:00,2,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 09:00:00,2,amphetamine-dextroamphetamine XR (ADDERALL XR) 24 hr capsule 20 mg,20.0,mg
+2001-01-01 09:00:00,2,rosuvastatin tablet 10 mg,10.0,mg
+2001-01-01 09:00:00,2,senna tablet 8.6 mg,8.6,mg
+2001-01-01 09:00:00,2,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 09:04:00,2,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 09:07:25,2,"sodium chloride 0.9 % bolus 1,000 mL",999.0,mL/hr
+2001-01-01 10:08:05,2,"sodium chloride 0.9 % bolus 1,000 mL",0.0,mL/hr
+2001-01-01 14:21:00,2,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 16:16:00,2,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 16:20:00,2,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 17:23:00,2,cyclobenzaprine tablet 5 mg,5.0,mg
+2001-01-01 21:47:00,2,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 21:47:00,2,gabapentin capsule 800 mg,800.0,mg
+2001-01-01 21:47:00,2,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 21:47:00,2,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 23:42:00,2,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 05:08:00,3,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 08:43:00,3,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 08:43:00,3,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 08:41:00,3,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 08:45:00,3,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:51:00,3,amphetamine-dextroamphetamine XR (ADDERALL XR) 24 hr capsule 20 mg,20.0,mg
+2001-01-01 08:44:00,3,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:44:00,3,rosuvastatin tablet 10 mg,10.0,mg
+2001-01-01 12:22:00,3,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 14:34:00,3,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 16:22:00,3,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 21:05:00,3,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 21:06:00,3,gabapentin capsule 800 mg,800.0,mg
+2001-01-01 21:06:00,3,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 21:07:00,3,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 21:07:00,3,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 21:52:00,3,scopolamine (1 mg/3 days) patch 1 patch,1.0,patch
+2001-01-01 22:50:00,3,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 23:45:00,3,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 05:51:00,4,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 08:37:00,4,amphetamine-dextroamphetamine XR (ADDERALL XR) 24 hr capsule 20 mg,20.0,mg
+2001-01-01 08:38:00,4,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:29:00,4,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 08:39:00,4,rosuvastatin tablet 10 mg,10.0,mg
+2001-01-01 08:39:00,4,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:39:00,4,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 08:38:00,4,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 14:03:00,4,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 14:41:00,4,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 16:08:00,4,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 17:08:00,4,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 17:41:00,4,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 20:49:00,4,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 20:49:00,4,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 20:54:00,4,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 20:54:00,4,gabapentin capsule 800 mg,800.0,mg
+2001-01-01 21:33:00,4,"levETIRAcetam 500 MG/5ML injection 2,000 mg",2000.0,mg
+2001-01-01 21:49:00,4,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 00:02:00,5,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 05:44:00,5,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 06:48:00,5,hydrOXYzine HCL (ATARAX) tablet 10 mg,10.0,mg
+2001-01-01 08:01:00,5,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 08:01:00,5,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 08:01:00,5,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 08:01:00,5,rosuvastatin tablet 10 mg,10.0,mg
+2001-01-01 08:01:00,5,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:02:00,5,polyethylene glycol packet 17 g,17.0,g
+2001-01-01 08:10:00,5,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 13:27:00,5,"heparin injection 5,000 Units",5000.0,Units
+2001-01-01 16:27:00,5,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 21:54:00,5,cloBAZam tablet 10 mg,10.0,mg
+2001-01-01 21:54:00,5,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 21:54:00,5,lamoTRIgine tablet 200 mg,200.0,mg
+2001-01-01 21:57:00,5,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 21:54:00,5,gabapentin capsule 800 mg,800.0,mg
+2001-01-01 21:54:00,5,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 00:13:01,6,sodium chloride 0.9 % infusion,85.0,mL/hr
+2001-01-01 00:41:00,6,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 07:59:00,6,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 07:59:00,6,rosuvastatin tablet 10 mg,10.0,mg
+2001-01-01 07:59:00,6,oxyCODONE IR tablet 10 mg,10.0,mg
+2001-01-01 07:59:00,6,lamoTRIgine tablet 200 mg,200.0,mg
+2001-01-01 08:00:00,6,ceFAZolin 500 mg in 5 mL IV syringe,60.0,mL/hr
+2001-01-01 08:00:00,6,dexAMETHasone tablet 2 mg,2.0,mg
+2001-01-01 08:00:00,6,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 08:00:00,6,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:03:00,6,amphetamine-dextroamphetamine XR (ADDERALL XR) 24 hr capsule 20 mg,20.0,mg
+2001-01-01 12:13:00,6,chlorhexidine gluconate 2 % topical wipes 1 Application,1.0,Application
+2001-01-01 12:13:00,6,povidone-iodine 10 % topical solution 1 Application,1.0,Application
+2001-01-01 12:40:00,6,aprepitant capsule 80 mg,80.0,mg
+2001-01-01 12:41:00,6,acetaminophen tablet 975 mg,975.0,mg
+2001-01-01 12:57:00,6,midazolam 1 mg/mL injection,2.0,mg
+2001-01-01 13:06:00,6,propofol (DIPRIVAN) 200 MG/20ML injection,180.0,mg
+2001-01-01 13:06:00,6,fentaNYL (PF) (SUBLIMAZE) 100 MCG/2ML injection,200.0,mcg
+2001-01-01 13:08:00,6,rocuronium 100 MG/10ML injection,100.0,mg
+2001-01-01 13:09:00,6,propofol 1000 mg in 100 mL infusion premix,82.71,mL/hr
+2001-01-01 13:07:00,6,PHENYLephrine 100 mcg/mL OR/PACU infusion,9.0,mL/hr
+2001-01-01 13:21:00,6,ceFAZolin 100 mg/mL,2.0,g
+2001-01-01 13:21:00,6,dexAMETHasone PF 10 mg/mL injection,4.0,mg
+2001-01-01 13:24:00,6,HYDROmorphone 1 mg/mL injection,0.4,mg
+2001-01-01 13:35:00,6,ondansetron 4 mg/2 mL injection,4.0,mg
+2001-01-01 13:42:00,6,sugammadex 200 MG/2ML injection,200.0,mg
+2001-01-01 13:42:00,6,propofol 1000 mg in 100 mL infusion premix,0.0,mL/hr
+2001-01-01 13:48:00,6,propofol (DIPRIVAN) 200 MG/20ML injection,50.0,mg
+2001-01-01 13:53:00,6,sugammadex 200 MG/2ML injection,200.0,mg
+2001-01-01 14:11:00,6,PHENYLephrine 100 mcg/mL OR/PACU infusion,0.0,mL/hr
+2001-01-01 14:11:00,6,lactated ringers infusion,0.0,mL/hr
+2001-01-01 14:30:00,6,HYDROmorphone 0.2 mg/mL injection 0.25 mg,0.25,mg
+2001-01-01 14:43:00,6,benzocaine-menthol (CEPACOL SORE THROAT) lozenge 1 lozenge,1.0,lozenge

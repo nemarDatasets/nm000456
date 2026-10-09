@@ -1,0 +1,10 @@
+filename	acq_time	deposit_day	edf_subtype	header_date_scrubbed
+eeg/sub-PennEPI02032_task-monitoring_run-01_eeg.edf	2001-01-01T10:41:42	1	EDF+D	no
+eeg/sub-PennEPI02032_task-monitoring_run-02_eeg.edf	2001-01-01T06:00:26	2	EDF+D	yes
+eeg/sub-PennEPI02032_task-monitoring_run-03_eeg.edf	2001-01-01T06:00:25	3	EDF+D	yes
+eeg/sub-PennEPI02032_task-monitoring_run-04_eeg.edf	2001-01-01T06:00:31	4	EDF+D	yes
+eeg/sub-PennEPI02032_task-monitoring_run-05_eeg.edf	2001-01-01T06:00:28	5	EDF+D	yes
+eeg/sub-PennEPI02032_task-monitoring_run-06_eeg.edf	2001-01-01T06:00:23	6	EDF+D	yes
+eeg/sub-PennEPI02032_task-monitoring_run-07_eeg.edf	2001-01-01T06:00:28	7	EDF+D	yes
+eeg/sub-PennEPI02032_task-monitoring_run-08_eeg.edf	2001-01-01T06:00:30	8	EDF+D	yes
+eeg/sub-PennEPI02032_task-monitoring_run-09_eeg.edf	2001-01-01T06:00:27	9	EDF+C	yes

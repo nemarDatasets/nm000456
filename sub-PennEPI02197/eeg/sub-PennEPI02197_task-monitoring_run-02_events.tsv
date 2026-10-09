@@ -1,0 +1,16 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+129.535	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1817.972	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2822.691	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+3197.464	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+9270.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+9330.0	n/a	medication	n/a	n/a	vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units	2000.0	Units	n/a	n/a	medications.csv
+9330.0	n/a	medication	n/a	n/a	folic acid tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+9390.0	n/a	medication	n/a	n/a	OXcarbazepine tablet 1,350 mg	1350.0	mg	n/a	n/a	medications.csv
+13199.503	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+15332.042	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+15701.621	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+44966.0	234.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	no	45578.879	databricks_events.csv
+60690.0	n/a	medication	n/a	n/a	OXcarbazepine tablet 750 mg	750.0	mg	n/a	n/a	medications.csv
+60750.0	n/a	medication	n/a	n/a	enoxaparin 60 MG/0.6ML injection 60 mg	60.0	mg	n/a	n/a	medications.csv
+68212.578	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv

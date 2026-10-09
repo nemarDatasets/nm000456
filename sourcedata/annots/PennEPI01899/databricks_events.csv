@@ -1,0 +1,2 @@
+start_time,start_time_deposit_day,stop_time,stop_time_deposit_day,annotation,classified_response,response_time,response_time_deposit_day
+2001-01-01 10:37:16,3,2001-01-01 10:37:34,3,Seizure event detected,uncertain,2001-01-01 09:22:22.341179,3

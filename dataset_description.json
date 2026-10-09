@@ -1,0 +1,56 @@
+{
+  "Name": "Human-AI collaboration for co-managing epilepsy in real time: scalp EEG and SEEG from 13 epilepsy monitoring unit patients",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-NC-SA-4.0",
+  "Authors": [
+    "Haoer Shi",
+    "Zack Goldblum",
+    "William Ojemann",
+    "Carlos Aguila",
+    "Kerry Nix",
+    "Katherine Walsh",
+    "Sarah Lavelle",
+    "Kathryn Davis",
+    "Nishant Sinha",
+    "Erin Conrad",
+    "Brian Litt"
+  ],
+  "Acknowledgements": "Data collected at the Penn Epilepsy Center (Hospital of the University of Pennsylvania), Litt lab / Center for Neuroengineering and Therapeutics. BIDS conversion for NEMAR by Bruno Aristimunha.",
+  "HowToAcknowledge": "Cite the source dataset (Shi H, Goldblum Z, Ojemann W, et al. Data for Human-AI Collaboration for Co-Managing Epilepsy in Real Time. Pennsieve Discover, dataset 696 v2, doi:10.26275/xbu9-ulpn) and Goldblum Z, Shi H, Xu Z, et al. An Implantable Device that Converses with Patients and Learns to Co-Manage Epilepsy. medRxiv 2026, doi:10.64898/2026.01.26.26344234.",
+  "Funding": [
+    "NIH Pioneer Award DP1-NS-122038",
+    "NIH/NINDS R01-NS-125137",
+    "NIH T32NS091006",
+    "Jonathan and Bonnie Rothberg",
+    "Neil and Barbara Smit",
+    "Small Lake Foundation",
+    "NIH/NINDS R61-NS-125568 (K.A.D.)",
+    "NIH/NINDS R01-NS-116504 (K.A.D.)",
+    "NIH/NINDS K99NS138680 (N.S.)",
+    "Department of Defense W81XWH2210593 (N.S.)",
+    "NIH/NINDS K23 NS121401-01A1 (E.C.)",
+    "Burroughs Wellcome Fund (E.C.)"
+  ],
+  "EthicsApprovals": [
+    "University of Pennsylvania Institutional Review Board (IRB protocol #849276)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.64898/2026.01.26.26344234",
+    "https://doi.org/10.26275/xbu9-ulpn",
+    "https://discover.pennsieve.io/datasets/696/version/2"
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.26275/xbu9-ulpn",
+      "URL": "https://discover.pennsieve.io/datasets/696/version/2",
+      "Version": "2"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "b3w9_convert_humanai.py (EDF header date scrub, data records unchanged; annotation CSVs to events.tsv)",
+      "Description": "ieeg-nemar-handoff batch 3 (Voyager Kubernetes Jobs)"
+    }
+  ]
+}

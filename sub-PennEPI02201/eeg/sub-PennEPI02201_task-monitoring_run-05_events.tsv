@@ -1,0 +1,5 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+11557.0	n/a	medication	n/a	n/a	levETIRAcetam TB24 750 mg	750.0	mg	n/a	n/a	medications.csv
+11737.0	n/a	medication	n/a	n/a	lamoTRIgine ER tablet 100 mg	100.0	mg	n/a	n/a	medications.csv
+11737.0	n/a	medication	n/a	n/a	multivitamin tablet 1 tablet	1.0	tablet	n/a	n/a	medications.csv
+11797.0	n/a	medication	n/a	n/a	medication not found in pennchart 1 g	1.0	g	n/a	n/a	medications.csv

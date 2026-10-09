@@ -1,0 +1,10 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+9453.0	n/a	medication	n/a	n/a	acetaminophen tablet 650 mg	650.0	mg	n/a	n/a	medications.csv
+9453.0	n/a	medication	n/a	n/a	calcium carbonate antacid 500 mg (elemental dose 200 mg) per chewable tablet 2 tablet	2.0	tablet	n/a	n/a	medications.csv
+9453.0	n/a	medication	n/a	n/a	aspirin chewable tablet 81 mg	81.0	mg	n/a	n/a	medications.csv
+9513.0	n/a	medication	n/a	n/a	levETIRAcetam tablet 500 mg	500.0	mg	n/a	n/a	medications.csv
+9513.0	n/a	medication	n/a	n/a	sulfaSALAzine tablet 1,000 mg	1000.0	mg	n/a	n/a	medications.csv
+9513.0	n/a	medication	n/a	n/a	vitamin B complex w/ vitamin C tablet 1 tablet	1.0	tablet	n/a	n/a	medications.csv
+9513.0	n/a	medication	n/a	n/a	multivitamin tablet 1 tablet	1.0	tablet	n/a	n/a	medications.csv
+9513.0	n/a	medication	n/a	n/a	amLODIPine tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+10198.832	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv

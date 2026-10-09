@@ -1,0 +1,26 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+9410.238	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+9519.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 300 mg	300.0	mg	n/a	n/a	medications.csv
+18879.199	n/a	patient_event	PATIENT EVENT	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+19200.625	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+23154.019	n/a	patient_event	Patient event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+23592.093	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+25110.089	n/a	patient_event	Patient event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+25397.105	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+42039.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+43986.652	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+43990.808	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+43997.292	145.016	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+44003.066	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+44199.0	n/a	medication	n/a	n/a	LORAZepam 2 mg/mL injection 2 mg	2.0	mg	n/a	n/a	medications.csv
+44690.789	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+45835.347	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+46726.566	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+57459.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 400 mg	400.0	mg	n/a	n/a	medications.csv
+62834.828	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+70136.714	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+70193.339	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+70757.882	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+70861.8	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+73731.191	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+75580.089	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

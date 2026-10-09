@@ -1,0 +1,19 @@
+PID	PennEPIID	Sex	Race	Ethnicity	recording_type	length_of_stay	length_of_enrollment	num_sz	avg_sz_dura	num_sz_after_enroll	num_push	num_push_after_enroll	num_annots	num_yes_annots	num_no_annots	num_uncertain_annots	Surveys	Seizures	Sleep	Data Agent	Spikes	Laterality	Localization	Seizure	Home ASMs	Other info
+PID001	PennEPI02012	Female	White	Not Hispanic or Latinx	Scalp	3.182743056	1.984976852	3	2.208637144	3	2	2	n/a	n/a	n/a	n/a	No	No	No	No	No	Left	Temporal	"Focal impaired aware; Focal to bilateral 
+tonic-clonic"	Lamotrigine 250 mg twice daily	n/a
+PID002	PennEPI02014	Female	White	Not Hispanic or Latinx	Scalp	3.853460648	2.904467593	0	n/a	0	0	0	n/a	n/a	n/a	n/a	No	No	No	No	No	Uncertain	Uncertain	n/a	Levetiracetam 750/750	n/a
+PID003	PennEPI00037	Male	White	Not Hispanic or Latinx	Scalp	4.806261574	4.720347222	3	2.145290794	3	14	14	0.0	0.0	0.0	0.0	Yes	Yes	No	No	No	Right	Frontal	Focal impaired awareness	Lamotrigine 300/400; Levetiracetam 2000/2000; Zonisamide 0/400; Cenobamate 0/300	n/a
+PID004	PennEPI02032	Male	White	Not Hispanic or Latinx	Scalp	7.94912037	7.762106481	0	n/a	0	6	6	4.0	0.0	4.0	0.0	Yes	Yes	No	No	No	Right	Frontal	n/a	Phenobarbital 7.5 mg twice a day; Topiramate (topamax) 200 mg twice a day; Cenobamate (Xcopri) 200 mg twice a day; Epidiolex 3.4 ml twice a day (100 mg/ml) for a total of 340 mg twice a day 	n/a
+PID005	PennEPI02194	Female	Black or African American	Not Hispanic or Latinx	Scalp	4.656898148	3.50931713	3	4.81636285	3	2	2	2.0	0.0	1.0	1.0	Yes	Yes	Yes	No	No	Left	Temporal	Focal impaired awareness	Spritam (brand name Levetiracetam) 1500 MG twice daily	n/a
+PID006	PennEPI02152	Male	White	Not Hispanic or Latinx	Scalp	5.811365741	5.714884259	5	2.194166663	5	8	8	0.0	0.0	0.0	0.0	Yes	Yes	Yes	Yes	No	Bilateral	Temporal	Focal impaired awareness	"Lacosamide 100 mg twice daily 
+Perampanel 12 mg daily"	n/a
+PID007	PennEPI00202	Male	White	Not Hispanic or Latinx	SEEG	6.113784722	1.886400463	5	1.45641602	1	13	1	0.0	0.0	0.0	0.0	Yes	Yes	Yes	Yes	No	Left	Temporal	"Focal impaired aware; Focal to bilateral 
+tonic-clonic"	LTG 300/250; Cenobamate 100/300; lorazepam 1 mg	n/a
+PID008	PennEPI01899	Male	White	Not Hispanic or Latinx	Scalp	3.218460648	2.166203704	25	1.6423125	25	9	9	1.0	0.0	0.0	1.0	Yes	Yes	Yes	Yes	No	Left	Temporal	Focal impaired awareness	Cenobamate 150 mg; Lamotrigine 200 mg/200 mg	n/a
+PID009	PennEPI02195	Female	White	Not Hispanic or Latinx	Scalp	6.8696875	5.787025463	2	1.802799167	2	5	5	8.0	0.0	8.0	0.0	Yes	Yes	Yes	Yes	Yes	Right	Temporal	Focal to bilateral tonic-clonic	CLB 5 mg daily (pre-weaned to 2.5 mg daily prior to EMU admission); LCS 100 mg twice daily  100/100; OXC 300 mg twice daily (pre-tapered to 150 mg twice daily prior to EMU admission)	n/a
+PID010	PennEPI02197	Female	Black or African American	Not Hispanic or Latinx	Scalp	7.629456019	6.634988426	1	1.248828133	1	4	3	4.0	2.0	1.0	1.0	Yes	Yes	Yes	Yes	Yes	Left	Temporal	Focal to bilateral tonic-clonic	"OXC ER 2700 mg daily  1350/1350
+CEN 100 daily (discontinued 1 day prior 10/01) "	n/a
+PID011	PennEPI02198	Female	White	Not Hispanic or Latinx	Scalp	5.050381944	4.007175926	1	0.62890625	1	0	0	0.0	0.0	0.0	0.0	Yes	Yes	Yes	Yes	Yes	Right	Temporal	"Focal impaired aware; Focal to bilateral 
+tonic-clonic"	Lamictal 200/200	n/a
+PID012	PennEPI02201	Female	White	Not Hispanic or Latinx	Scalp	3.78212963	2.830810185	3	2.252300356	2	4	4	4.0	0.0	4.0	0.0	Yes	Yes	Yes	Yes	Yes	Left	Temporal	Focal impaired awareness	Levetiracetam ER (keppra) 750/750; Lamotrigine ER (lamictal) 100/150; Gabapentin (neurontin) 0/300	n/a
+PID013	PennEPI02154	Male	White	Not Hispanic or Latinx	SEEG	4.86625	4.711331019	11	1.780348897	11	16	16	10.0	5.0	1.0	4.0	Yes	Yes	No	Yes	Yes	Left	Temporal	Focal aware/impaired aware	Clobazam 10 mg nightly; Gabapentin 800 mg nightly; Lamotrigine 200 mg twice daily	3 stim sz, clinical typical

@@ -1,0 +1,49 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 08:39:00,5,levETIRAcetam tablet 500 mg,500.0,mg
+2001-01-01 08:39:00,5,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 08:39:00,5,vitamin B complex w/ vitamin C tablet 1 tablet,1.0,tablet
+2001-01-01 08:39:00,5,multivitamin tablet 1 tablet,1.0,tablet
+2001-01-01 08:39:00,5,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 08:38:00,5,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 08:38:00,5,calcium carbonate antacid 500 mg (elemental dose 200 mg) per chewable tablet 2 tablet,2.0,tablet
+2001-01-01 08:38:00,5,aspirin chewable tablet 81 mg,81.0,mg
+2001-01-01 21:00:00,4,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 21:00:00,4,nortriptyline capsule 25 mg,25.0,mg
+2001-01-01 21:00:00,4,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 20:59:00,4,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 16:59:00,4,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 09:10:00,4,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 09:05:00,4,vitamin B complex w/ vitamin C tablet 1 tablet,1.0,tablet
+2001-01-01 09:04:00,4,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 09:04:00,4,multivitamin tablet 1 tablet,1.0,tablet
+2001-01-01 09:03:00,4,calcium carbonate antacid 500 mg (elemental dose 200 mg) per chewable tablet 2 tablet,2.0,tablet
+2001-01-01 09:03:00,4,aspirin chewable tablet 81 mg,81.0,mg
+2001-01-01 09:03:00,4,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 21:25:00,3,nortriptyline capsule 25 mg,25.0,mg
+2001-01-01 21:25:00,3,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 21:25:00,3,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 19:28:00,3,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 17:20:00,3,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 09:13:00,3,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 09:12:00,3,multivitamin tablet 1 tablet,1.0,tablet
+2001-01-01 09:12:00,3,calcium carbonate antacid 500 mg (elemental dose 200 mg) per chewable tablet 2 tablet,2.0,tablet
+2001-01-01 09:12:00,3,aspirin chewable tablet 81 mg,81.0,mg
+2001-01-01 09:12:00,3,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 09:12:00,3,vitamin B complex w/ vitamin C tablet 1 tablet,1.0,tablet
+2001-01-01 21:19:00,2,nortriptyline capsule 25 mg,25.0,mg
+2001-01-01 21:19:00,2,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 21:18:00,2,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 21:18:00,2,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 18:12:00,2,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 13:40:00,2,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 08:54:00,2,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 08:54:00,2,vitamin B complex w/ vitamin C tablet 1 tablet,1.0,tablet
+2001-01-01 08:53:00,2,multivitamin tablet 1 tablet,1.0,tablet
+2001-01-01 08:53:00,2,aspirin chewable tablet 81 mg,81.0,mg
+2001-01-01 08:51:00,2,calcium carbonate antacid 500 mg (elemental dose 200 mg) per chewable tablet 2 tablet,2.0,tablet
+2001-01-01 08:51:00,2,amLODIPine tablet 5 mg,5.0,mg
+2001-01-01 22:33:00,1,"sulfaSALAzine tablet 1,000 mg",1000.0,mg
+2001-01-01 22:32:00,1,nortriptyline capsule 25 mg,25.0,mg
+2001-01-01 22:32:00,1,lansoprazole DR capsule 30 mg,30.0,mg
+2001-01-01 17:53:00,1,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 17:53:00,1,calcium carbonate antacid 500 mg (elemental dose 200 mg) per chewable tablet 2 tablet,2.0,tablet

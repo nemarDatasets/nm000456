@@ -1,0 +1,25 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+92.609	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+1802.25	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+3980.328	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7110.5	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7652.375	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+16779.0	n/a	medication	n/a	n/a	hydrOXYzine HCL (ATARAX) tablet 25 mg	25.0	mg	n/a	n/a	medications.csv
+19754.109	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+20388.914	60.711	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+20481.539	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+20739.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv
+30361.125	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+33399.0	n/a	medication	n/a	n/a	acetaminophen tablet 650 mg	650.0	mg	n/a	n/a	medications.csv
+36384.339	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+37813.0	30.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	no	38477.478	databricks_events.csv
+45159.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+51055.914	n/a	patient_event	Patient event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+51120.929	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+51168.121	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+53761.98	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+55300.73	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+57134.015	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+58346.359	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+68192.656	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+84519.171	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv

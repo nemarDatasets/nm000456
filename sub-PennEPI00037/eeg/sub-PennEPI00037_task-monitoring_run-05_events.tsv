@@ -1,0 +1,21 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+68.605	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+2120.675	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+5615.296	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+7301.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+12939.269	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+21027.308	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+21188.457	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+21192.593	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+21193.191	120.465	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+21341.0	n/a	medication	n/a	n/a	LORAZepam 2 mg/mL injection 2 mg	2.0	mg	n/a	n/a	medications.csv
+27221.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 100 mg	100.0	mg	n/a	n/a	medications.csv
+27221.0	n/a	medication	n/a	n/a	levETIRAcetam 500 MG/5ML injection 2,000 mg	2000.0	mg	n/a	n/a	medications.csv
+40901.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+53501.0	n/a	medication	n/a	n/a	levETIRAcetam tablet 2,000 mg	2000.0	mg	n/a	n/a	medications.csv
+53501.0	n/a	medication	n/a	n/a	zonisamide capsule 400 mg	400.0	mg	n/a	n/a	medications.csv
+53561.0	n/a	medication	n/a	n/a	cenobamate tablet 300 mg	300.0	mg	n/a	n/a	medications.csv
+53561.0	n/a	medication	n/a	n/a	lamoTRIgine tablet 400 mg	400.0	mg	n/a	n/a	medications.csv
+54252.949	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+72590.64	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+77390.316	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

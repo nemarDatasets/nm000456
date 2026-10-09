@@ -1,0 +1,20 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+1251.117	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+13773.0	n/a	medication	n/a	n/a	varenicline tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+13773.0	n/a	medication	n/a	n/a	levETIRAcetam tablet 750 mg	750.0	mg	n/a	n/a	medications.csv
+13773.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+13833.0	n/a	medication	n/a	n/a	hydrochloroTHIAZIDE tablet 25 mg	25.0	mg	n/a	n/a	medications.csv
+28976.023	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+31372.125	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+32056.375	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+42873.0	n/a	medication	n/a	n/a	varenicline tablet 1 mg	1.0	mg	n/a	n/a	medications.csv
+42873.0	n/a	medication	n/a	n/a	nicotine 14 MG/24HR patch 1 patch	1.0	patch	n/a	n/a	medications.csv
+42965.843	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+52653.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+61491.554	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+63235.367	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+63407.351	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+69419.937	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+70591.031	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+72533.046	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+78504.382	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv

@@ -1,0 +1,7 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+4501.785	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+4528.105	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+5219.496	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+12033.0	n/a	medication	n/a	n/a	cannabidiol (EPIDIOLEX) 100 MG/ML oral solution 340 mg	340.0	mg	n/a	n/a	medications.csv
+12093.0	n/a	medication	n/a	n/a	cenobamate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv
+12093.0	n/a	medication	n/a	n/a	topiramate tablet 200 mg	200.0	mg	n/a	n/a	medications.csv

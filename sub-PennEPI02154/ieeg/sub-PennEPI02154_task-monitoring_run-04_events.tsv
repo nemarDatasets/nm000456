@@ -1,0 +1,48 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+8017.0	n/a	medication	n/a	n/a	ceFAZolin 500 mg in 5 mL IV syringe	60.0	mL/hr	n/a	n/a	medications.csv
+8497.0	n/a	medication	n/a	n/a	amphetamine-dextroamphetamine XR (ADDERALL XR) 24 hr capsule 20 mg	20.0	mg	n/a	n/a	medications.csv
+8557.0	n/a	medication	n/a	n/a	senna tablet 8.6 mg	8.6	mg	n/a	n/a	medications.csv
+8557.0	n/a	medication	n/a	n/a	lansoprazole DR capsule 30 mg	30.0	mg	n/a	n/a	medications.csv
+8617.0	n/a	medication	n/a	n/a	rosuvastatin tablet 10 mg	10.0	mg	n/a	n/a	medications.csv
+8617.0	n/a	medication	n/a	n/a	dexAMETHasone tablet 2 mg	2.0	mg	n/a	n/a	medications.csv
+8617.0	n/a	medication	n/a	n/a	amLODIPine tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+20895.105	156.05	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+20983.638	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+20984.459	60.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	yes	21429.424	databricks_events.csv
+20998.105	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+21007.315	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+21917.459	35.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	uncertain	23241.529	databricks_events.csv
+26025.897	135.164	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+26075.952	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+26079.459	80.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	yes	38365.306	databricks_events.csv
+26089.543	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+26093.509	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+28057.0	n/a	medication	n/a	n/a	heparin injection 5,000 Units	5000.0	Units	n/a	n/a	medications.csv
+29954.106	104.076	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+29964.308	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+29993.116	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+30337.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv
+35557.0	n/a	medication	n/a	n/a	ceFAZolin 500 mg in 5 mL IV syringe	60.0	mL/hr	n/a	n/a	medications.csv
+35964.48	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+39157.0	n/a	medication	n/a	n/a	oxyCODONE IR tablet 10 mg	10.0	mg	n/a	n/a	medications.csv
+39864.407	153.924	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+39922.003	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+39926.459	88.0	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	yes	40314.218	databricks_events.csv
+39944.344	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+39946.639	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+41137.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv
+49255.158	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+52417.0	n/a	medication	n/a	n/a	dexAMETHasone tablet 2 mg	2.0	mg	n/a	n/a	medications.csv
+52417.0	n/a	medication	n/a	n/a	lansoprazole DR capsule 30 mg	30.0	mg	n/a	n/a	medications.csv
+52423.046	166.114	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+52470.256	117.361	platform_annotation	Seizure event detected	n/a	n/a	n/a	n/a	yes	53152.321	databricks_events.csv
+52491.174	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+52495.698	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+52717.0	n/a	medication	n/a	n/a	heparin injection 5,000 Units	5000.0	Units	n/a	n/a	medications.csv
+52717.0	n/a	medication	n/a	n/a	gabapentin capsule 800 mg	800.0	mg	n/a	n/a	medications.csv
+55057.0	n/a	medication	n/a	n/a	levETIRAcetam 500 MG/5ML injection 2,000 mg	2000.0	mg	n/a	n/a	medications.csv
+56017.0	n/a	medication	n/a	n/a	oxyCODONE IR tablet 10 mg	10.0	mg	n/a	n/a	medications.csv
+61561.992	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+63997.0	n/a	medication	n/a	n/a	ceFAZolin 500 mg in 5 mL IV syringe	60.0	mL/hr	n/a	n/a	medications.csv
+76688.215	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+84517.0	n/a	medication	n/a	n/a	heparin injection 5,000 Units	5000.0	Units	n/a	n/a	medications.csv

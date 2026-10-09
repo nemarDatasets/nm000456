@@ -1,0 +1,25 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+396.0	n/a	medication	n/a	n/a	heparin injection 5,000 Units	5000.0	Units	n/a	n/a	medications.csv
+5791.377	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+9816.0	n/a	medication	n/a	n/a	ceFAZolin 500 mg in 5 mL IV syringe	60.0	mL/hr	n/a	n/a	medications.csv
+9876.0	n/a	medication	n/a	n/a	amLODIPine tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+9876.0	n/a	medication	n/a	n/a	amphetamine-dextroamphetamine XR (ADDERALL XR) 24 hr capsule 20 mg	20.0	mg	n/a	n/a	medications.csv
+9876.0	n/a	medication	n/a	n/a	rosuvastatin tablet 10 mg	10.0	mg	n/a	n/a	medications.csv
+9876.0	n/a	medication	n/a	n/a	senna tablet 8.6 mg	8.6	mg	n/a	n/a	medications.csv
+9876.0	n/a	medication	n/a	n/a	lansoprazole DR capsule 30 mg	30.0	mg	n/a	n/a	medications.csv
+10116.0	n/a	medication	n/a	n/a	dexAMETHasone tablet 2 mg	2.0	mg	n/a	n/a	medications.csv
+10321.0	n/a	medication	n/a	n/a	sodium chloride 0.9 % bolus 1,000 mL	999.0	mL/hr	n/a	n/a	medications.csv
+13961.0	n/a	medication	n/a	n/a	sodium chloride 0.9 % bolus 1,000 mL	0.0	mL/hr	n/a	n/a	medications.csv
+25008.768	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+29136.0	n/a	medication	n/a	n/a	heparin injection 5,000 Units	5000.0	Units	n/a	n/a	medications.csv
+36036.0	n/a	medication	n/a	n/a	ceFAZolin 500 mg in 5 mL IV syringe	60.0	mL/hr	n/a	n/a	medications.csv
+36276.0	n/a	medication	n/a	n/a	oxyCODONE IR tablet 10 mg	10.0	mg	n/a	n/a	medications.csv
+40056.0	n/a	medication	n/a	n/a	cyclobenzaprine tablet 5 mg	5.0	mg	n/a	n/a	medications.csv
+45774.835	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+52755.891	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+55896.0	n/a	medication	n/a	n/a	dexAMETHasone tablet 2 mg	2.0	mg	n/a	n/a	medications.csv
+55896.0	n/a	medication	n/a	n/a	gabapentin capsule 800 mg	800.0	mg	n/a	n/a	medications.csv
+55896.0	n/a	medication	n/a	n/a	lansoprazole DR capsule 30 mg	30.0	mg	n/a	n/a	medications.csv
+55896.0	n/a	medication	n/a	n/a	heparin injection 5,000 Units	5000.0	Units	n/a	n/a	medications.csv
+62796.0	n/a	medication	n/a	n/a	ceFAZolin 500 mg in 5 mL IV syringe	60.0	mL/hr	n/a	n/a	medications.csv
+82356.0	n/a	medication	n/a	n/a	heparin injection 5,000 Units	5000.0	Units	n/a	n/a	medications.csv

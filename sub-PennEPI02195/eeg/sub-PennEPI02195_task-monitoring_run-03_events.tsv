@@ -1,0 +1,19 @@
+onset	duration	trial_type	event_text	sleep_stage	medication	dose	dose_unit	response	response_onset	source
+1321.656	n/a	sleep_stage	n/a	Wake	n/a	n/a	n/a	n/a	n/a	sleep.csv
+9108.281	n/a	sleep_stage	n/a	N1	n/a	n/a	n/a	n/a	n/a	sleep.csv
+11170.96	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+19647.179	n/a	sleep_stage	n/a	REM	n/a	n/a	n/a	n/a	n/a	sleep.csv
+31988.015	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+32467.179	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+32585.859	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+36459.0	n/a	medication	n/a	n/a	influenza vaccine (FLUZONE;FLULAVAL) injection 0.5 mL	0.5	mL	n/a	n/a	medications.csv
+41739.0	n/a	medication	n/a	n/a	enoxaparin 40 MG/0.4ML injection 40 mg	40.0	mg	n/a	n/a	medications.csv
+44799.0	n/a	medication	n/a	n/a	simethicone chewable tablet 80 mg	80.0	mg	n/a	n/a	medications.csv
+44799.0	n/a	medication	n/a	n/a	loperamide capsule 2 mg	2.0	mg	n/a	n/a	medications.csv
+44859.0	n/a	medication	n/a	n/a	famotidine tablet 20 mg	20.0	mg	n/a	n/a	medications.csv
+75214.523	n/a	sleep_stage	n/a	N2	n/a	n/a	n/a	n/a	n/a	sleep.csv
+76020.992	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+82315.593	n/a	sleep_stage	n/a	N3	n/a	n/a	n/a	n/a	n/a	sleep.csv
+82342.257	155.625	seizure	n/a	n/a	n/a	n/a	n/a	n/a	n/a	seizure_events.csv
+82391.562	n/a	patient_event	Patient Event	n/a	n/a	n/a	n/a	n/a	n/a	patient_events.csv
+82719.0	n/a	medication	n/a	n/a	midazolam 1 mg/mL injection 5 mg	5.0	mg	n/a	n/a	medications.csv

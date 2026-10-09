@@ -1,0 +1,30 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 08:20:00,6,lamoTRIgine tablet 300 mg,300.0,mg
+2001-01-01 08:20:00,6,"levETIRAcetam tablet 2,000 mg",2000.0,mg
+2001-01-01 20:53:00,5,cenobamate tablet 300 mg,300.0,mg
+2001-01-01 20:53:00,5,lamoTRIgine tablet 400 mg,400.0,mg
+2001-01-01 20:52:00,5,"levETIRAcetam tablet 2,000 mg",2000.0,mg
+2001-01-01 20:52:00,5,zonisamide capsule 400 mg,400.0,mg
+2001-01-01 17:22:00,5,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 13:34:00,5,lamoTRIgine tablet 100 mg,100.0,mg
+2001-01-01 13:34:00,5,"levETIRAcetam 500 MG/5ML injection 2,000 mg",2000.0,mg
+2001-01-01 11:56:00,5,LORAZepam 2 mg/mL injection 2 mg,2.0,mg
+2001-01-01 08:02:00,5,lamoTRIgine tablet 200 mg,200.0,mg
+2001-01-01 21:58:00,4,lamoTRIgine tablet 400 mg,400.0,mg
+2001-01-01 18:17:00,4,LORAZepam 2 mg/mL injection 2 mg,2.0,mg
+2001-01-01 17:41:00,4,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 08:39:00,4,lamoTRIgine tablet 300 mg,300.0,mg
+2001-01-01 21:26:00,3,"levETIRAcetam tablet 1,000 mg",1000.0,mg
+2001-01-01 21:26:00,3,lamoTRIgine tablet 400 mg,400.0,mg
+2001-01-01 18:03:00,3,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 11:58:00,3,"levETIRAcetam tablet 1,000 mg",1000.0,mg
+2001-01-01 08:21:00,3,lamoTRIgine tablet 300 mg,300.0,mg
+2001-01-01 22:04:00,2,"levETIRAcetam tablet 1,000 mg",1000.0,mg
+2001-01-01 22:04:00,2,lamoTRIgine tablet 400 mg,400.0,mg
+2001-01-01 19:34:00,2,LORAZepam 2 mg/mL injection 2 mg,2.0,mg
+2001-01-01 17:44:00,2,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 08:48:00,2,lamoTRIgine tablet 300 mg,300.0,mg
+2001-01-01 08:46:00,2,"levETIRAcetam tablet 2,000 mg",2000.0,mg
+2001-01-01 22:11:00,1,"levETIRAcetam tablet 2,000 mg",2000.0,mg
+2001-01-01 21:30:00,1,lamoTRIgine tablet 400 mg,400.0,mg
+2001-01-01 17:27:00,1,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg

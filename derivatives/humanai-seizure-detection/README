@@ -1,0 +1,58 @@
+# Seizure-detection model outputs (deposit `intermediate_data/`)
+
+Copied from Pennsieve 696 v2. Every timestamp column has its day set to 01, with the deposit day kept in an added `<column>_deposit_day` column. Deposit description:
+
+## `intermediate_data/`
+
+Processed outputs from baseline and fine-tuned seizure detection models. Intended for secondary analysis without re-reading the full continuous EEG streams.
+
+### `citl_results/`
+
+Day-by-day clinician-in-the-loop (CITL) evaluation for a **subset** of patients.
+
+
+```
+citl_results/
+├── baseline_metrics_all_patients.csv
+├── finetuned_metrics_all_patients.csv
+├── improvement_metrics_all_patients.csv
+├── summary_statistics_all_metrics.csv
+└── PennEPI*****/
+    ├── day1/
+    │   ├── predictions_day1_before_day1.parquet
+    │   ├── predictions_day1_after_day1.parquet
+    │   ├── predictions_day1_after_day2.parquet
+    │   └── …
+    ├── day2/
+    │   └── …
+    └── summary/
+        └── evaluation_metrics.csv
+```
+
+**Cohort-level CSVs** summarize baseline vs. fine-tuned performance and improvement across patients.
+
+| Item | Description |
+|------|-------------|
+| `dayN/` | Predictions for evaluation day *N* |
+| `predictions_dayN_before_dayK.parquet` | Model outputs on day *N* **before** fine-tuning that uses feedback through day *K* |
+| `predictions_dayN_after_dayK.parquet` | Model outputs on day *N* **after** fine-tuning that uses feedback through day *K* |
+| `summary/evaluation_metrics.csv` | Per-patient metric summary across days |
+
+Parquet prediction tables generally include timestamps / windows and model scores or labels for continuous evaluation along the hospital stay.
+
+### `results/`
+
+Batch fine-tuning and baseline evaluation outputs (non–day-oriented) for **all 13** subjects.
+
+```
+results/
+└── PennEPI*****/
+    ├── base_model/                    # or onset_base_model / related baseline name
+    │   ├── metrics/
+    │   ├── pred/
+    │   └── prob/
+    └── PennEPI*****_<base>_<hparams>_<update_rule>/
+        ├── metrics/                   # thresholded metric tables (CSV)
+        ├── pred/                      # discrete predictions (CSV)
+        └── prob/                      # continuous scores / probabilities (CSV)
+```

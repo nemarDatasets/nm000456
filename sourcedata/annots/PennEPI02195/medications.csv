@@ -1,0 +1,20 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 20:45:00,1,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 08:04:00,2,lacosamide tablet 100 mg,100.0,mg
+2001-01-01 20:46:00,1,lacosamide tablet 100 mg,100.0,mg
+2001-01-01 17:03:00,2,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 20:36:00,2,loperamide capsule 2 mg,2.0,mg
+2001-01-01 20:36:00,2,simethicone chewable tablet 80 mg,80.0,mg
+2001-01-01 04:43:00,3,calcium carbonate antacid 500 mg (elemental dose 200 mg) per chewable tablet 2 tablet,2.0,tablet
+2001-01-01 16:08:00,3,influenza vaccine (FLUZONE;FLULAVAL) injection 0.5 mL,0.5,mL
+2001-01-01 17:36:00,3,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 18:27:00,3,simethicone chewable tablet 80 mg,80.0,mg
+2001-01-01 18:28:00,3,famotidine tablet 20 mg,20.0,mg
+2001-01-01 18:27:00,3,loperamide capsule 2 mg,2.0,mg
+2001-01-01 04:59:00,4,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 10:40:00,4,hydrOXYzine HCL (ATARAX) tablet 25 mg,25.0,mg
+2001-01-01 11:46:00,4,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 15:17:00,4,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 18:33:00,4,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 19:34:00,5,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg
+2001-01-01 19:19:00,6,enoxaparin 40 MG/0.4ML injection 40 mg,40.0,mg

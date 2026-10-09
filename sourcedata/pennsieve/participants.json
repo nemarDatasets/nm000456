@@ -1,0 +1,87 @@
+{
+  "PID": {
+    "Description": "Anonymized Pioneer patient ID"
+  },
+  "PennEPIID": {
+    "Description": "PennEPI participant identifier from patient meta"
+  },
+  "recording_type": {
+    "Description": "Recording modality class from clinical meta (e.g. Scalp, SEEG)",
+    "Levels": {
+      "Scalp": "Scalp EEG",
+      "SEEG": "Stereo-EEG / iEEG"
+    }
+  },
+  "Sex": {
+    "Description": "Sex"
+  },
+  "Race": {
+    "Description": "Race"
+  },
+  "Ethnicity": {
+    "Description": "Ethnicity"
+  },
+  "length_of_stay": {
+    "Description": "Length of stay in the hospital"
+  },
+  "length_of_enrollment": {
+    "Description": "Length of enrollment in the study"
+  },
+  "num_sz": {
+    "Description": "Number of seizures"
+  },
+  "avg_sz_dura": {
+    "Description": "Average duration of seizures"
+  },
+  "num_sz_after_enroll": {
+    "Description": "Number of seizures after enrollment"
+  },
+  "num_push": {
+    "Description": "Number of patient self-reported push button notifications"
+  },
+  "num_push_after_enroll": {
+    "Description": "Number of patient self-reported push button notifications after enrollment"
+  },
+  "num_annots": {
+    "Description": "Number of annotations collected prospectively through the patient-AI platform"
+  },
+  "num_yes_annots": {
+    "Description": "Number of yes (seizure) annotations collected prospectively through the patient-AI platform"
+  },
+  "num_no_annots": {
+    "Description": "Number of no (non-seizure) annotations collected prospectively through the patient-AI platform"
+  },
+  "num_uncertain_annots": {
+    "Description": "Number of uncertain annotations collected prospectively through the patient-AI platform"
+  },
+  "Surveys": {
+    "Description": "Whether Survey function was enabled for the participant"
+  },
+  "Seizures": {
+    "Description": "Whether seizures monitoring function was enabled for the participant"
+  },
+  "Sleep": {
+    "Description": "Whether sleep monitoring function was enabled for the participant"
+  },
+  "Data Agent": {
+    "Description": "Whether data agent function was enabled for the participant"
+  },
+  "Spikes": {
+    "Description": "Whether spikes monitoring function was enabled for the participant"
+  },
+  "Laterality": {
+    "Description": "Epilepsy Laterality"
+  },
+  "Localization": {
+    "Description": "Epilepsy Localization"
+  },
+  "Seizure": {
+    "Description": "Seizure Characteristics"
+  },
+  "Home ASMs": {
+    "Description": "Home antiseizure medication (ASMs)"
+  },
+  "Other info": {
+    "Description": "Other information"
+  }
+}

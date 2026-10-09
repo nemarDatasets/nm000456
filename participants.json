@@ -1,0 +1,130 @@
+{
+  "participant_id": {
+    "Description": "sub-<PennEPI id>: the PennEPI research identifier used by the deposit (folders raw_data/edf/PennEPIxxxxx)."
+  },
+  "pioneer_pid": {
+    "Description": "Anonymized Pioneer patient ID",
+    "Source": "deposit participants.tsv column 'PID'"
+  },
+  "sex": {
+    "Description": "Sex",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    },
+    "Source": "deposit participants.tsv column 'Sex'"
+  },
+  "race": {
+    "Description": "Race",
+    "Source": "deposit participants.tsv column 'Race'"
+  },
+  "ethnicity": {
+    "Description": "Ethnicity",
+    "Source": "deposit participants.tsv column 'Ethnicity'"
+  },
+  "recording_type": {
+    "Description": "Recording modality class from clinical meta (e.g. Scalp, SEEG)",
+    "Levels": {
+      "Scalp": "Scalp EEG",
+      "SEEG": "Stereo-EEG / iEEG"
+    },
+    "Source": "deposit participants.tsv column 'recording_type'"
+  },
+  "length_of_stay_days": {
+    "Description": "Length of stay in the hospital",
+    "Source": "deposit participants.tsv column 'length_of_stay'",
+    "Units": "days"
+  },
+  "length_of_enrollment_days": {
+    "Description": "Length of enrollment in the study",
+    "Source": "deposit participants.tsv column 'length_of_enrollment'",
+    "Units": "days"
+  },
+  "num_sz": {
+    "Description": "Number of seizures",
+    "Source": "deposit participants.tsv column 'num_sz'"
+  },
+  "avg_sz_dura": {
+    "Description": "Average duration of seizures",
+    "Source": "deposit participants.tsv column 'avg_sz_dura'",
+    "Units": "n/a (not stated by the source)"
+  },
+  "num_sz_after_enroll": {
+    "Description": "Number of seizures after enrollment",
+    "Source": "deposit participants.tsv column 'num_sz_after_enroll'"
+  },
+  "num_push": {
+    "Description": "Number of patient self-reported push button notifications",
+    "Source": "deposit participants.tsv column 'num_push'"
+  },
+  "num_push_after_enroll": {
+    "Description": "Number of patient self-reported push button notifications after enrollment",
+    "Source": "deposit participants.tsv column 'num_push_after_enroll'"
+  },
+  "num_annots": {
+    "Description": "Number of annotations collected prospectively through the patient-AI platform",
+    "Source": "deposit participants.tsv column 'num_annots'"
+  },
+  "num_yes_annots": {
+    "Description": "Number of yes (seizure) annotations collected prospectively through the patient-AI platform",
+    "Source": "deposit participants.tsv column 'num_yes_annots'"
+  },
+  "num_no_annots": {
+    "Description": "Number of no (non-seizure) annotations collected prospectively through the patient-AI platform",
+    "Source": "deposit participants.tsv column 'num_no_annots'"
+  },
+  "num_uncertain_annots": {
+    "Description": "Number of uncertain annotations collected prospectively through the patient-AI platform",
+    "Source": "deposit participants.tsv column 'num_uncertain_annots'"
+  },
+  "surveys_enabled": {
+    "Description": "Whether Survey function was enabled for the participant",
+    "Source": "deposit participants.tsv column 'Surveys'"
+  },
+  "seizure_monitoring_enabled": {
+    "Description": "Whether seizures monitoring function was enabled for the participant",
+    "Source": "deposit participants.tsv column 'Seizures'"
+  },
+  "sleep_monitoring_enabled": {
+    "Description": "Whether sleep monitoring function was enabled for the participant",
+    "Source": "deposit participants.tsv column 'Sleep'"
+  },
+  "data_agent_enabled": {
+    "Description": "Whether data agent function was enabled for the participant",
+    "Source": "deposit participants.tsv column 'Data Agent'"
+  },
+  "spike_monitoring_enabled": {
+    "Description": "Whether spikes monitoring function was enabled for the participant",
+    "Source": "deposit participants.tsv column 'Spikes'"
+  },
+  "epilepsy_laterality": {
+    "Description": "Epilepsy Laterality",
+    "Source": "deposit participants.tsv column 'Laterality'"
+  },
+  "epilepsy_localization": {
+    "Description": "Epilepsy Localization",
+    "Source": "deposit participants.tsv column 'Localization'"
+  },
+  "seizure_types": {
+    "Description": "Seizure Characteristics",
+    "Source": "deposit participants.tsv column 'Seizure'"
+  },
+  "home_asms": {
+    "Description": "Home antiseizure medication (ASMs) (free text; a calendar date in one entry was reduced to month/01)",
+    "Source": "deposit participants.tsv column 'Home ASMs'"
+  },
+  "other_info": {
+    "Description": "Other information",
+    "Source": "deposit participants.tsv column 'Other info'"
+  },
+  "bids_datatype": {
+    "Description": "BIDS datatype of this subject's recordings (from recording_type)",
+    "Levels": {
+      "eeg": "scalp EEG (eeg/)",
+      "ieeg": "stereo-EEG (ieeg/)"
+    }
+  },
+  "pennepi_release": {
+    "Description": "Public single-subject PennEPI Pennsieve release of the same patient, if any (checked against all 104 PennEPI releases, 2026-10-08). It contains a different recording (intracranial monitoring), not the EEG of this dataset."
+  }
+}

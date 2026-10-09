@@ -1,0 +1,44 @@
+time,time_deposit_day,medname,medval,units
+2001-01-01 16:41:46,1,magnesium sulfate 2 g in SWFI 50mL IVPB premix 2 g,25.0,mL/hr
+2001-01-01 21:55:00,1,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 15:29:00,1,"vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units",2000.0,Units
+2001-01-01 15:28:00,1,folic acid tablet 1 mg,1.0,mg
+2001-01-01 08:37:00,2,"OXcarbazepine tablet 1,350 mg",1350.0,mg
+2001-01-01 08:35:00,2,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 08:36:00,2,"vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units",2000.0,Units
+2001-01-01 08:36:00,2,folic acid tablet 1 mg,1.0,mg
+2001-01-01 22:52:00,2,OXcarbazepine tablet 750 mg,750.0,mg
+2001-01-01 08:09:00,3,"vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units",2000.0,Units
+2001-01-01 08:09:00,3,folic acid tablet 1 mg,1.0,mg
+2001-01-01 08:23:00,3,senna tablet 8.6 mg,8.6,mg
+2001-01-01 08:10:00,3,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 22:53:00,2,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 20:45:00,3,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 09:07:00,4,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 09:07:00,4,folic acid tablet 1 mg,1.0,mg
+2001-01-01 09:08:00,4,"vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units",2000.0,Units
+2001-01-01 09:17:00,4,senna tablet 8.6 mg,8.6,mg
+2001-01-01 20:51:00,4,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 09:34:00,5,folic acid tablet 1 mg,1.0,mg
+2001-01-01 09:34:00,5,senna tablet 8.6 mg,8.6,mg
+2001-01-01 09:34:00,5,"vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units",2000.0,Units
+2001-01-01 09:37:00,5,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 18:27:00,5,vodka oral liquid 50 mL,50.0,mL
+2001-01-01 19:50:00,5,white wine 180 mL,180.0,mL
+2001-01-01 22:00:00,5,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 08:40:00,6,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 08:40:00,6,folic acid tablet 1 mg,1.0,mg
+2001-01-01 08:40:00,6,"vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units",2000.0,Units
+2001-01-01 08:40:00,6,senna tablet 8.6 mg,8.6,mg
+2001-01-01 17:07:00,6,midazolam 1 mg/mL injection 5 mg,5.0,mg
+2001-01-01 17:14:00,6,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 17:54:00,6,magic mouthwash (diphenhydrAMINE-MAALOX-lidocaine-simethicone) oral suspension 10 mL,10.0,mL
+2001-01-01 18:40:00,6,ondansetron 4 mg/2 mL injection 4 mg,4.0,mg
+2001-01-01 20:56:00,6,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 21:21:00,6,ibuprofen tablet 200 mg,200.0,mg
+2001-01-01 02:00:00,7,acetaminophen tablet 650 mg,650.0,mg
+2001-01-01 03:39:00,7,lactated ringers bolus 500 mL,500.0,mL/hr
+2001-01-01 09:41:00,7,enoxaparin 60 MG/0.6ML injection 60 mg,60.0,mg
+2001-01-01 09:42:00,7,folic acid tablet 1 mg,1.0,mg
+2001-01-01 09:42:00,7,senna tablet 8.6 mg,8.6,mg
+2001-01-01 09:42:00,7,"vitamin D3 (CHOLECALCIFEROL) 25 MCG (1000 UT) tablet 2,000 Units",2000.0,Units

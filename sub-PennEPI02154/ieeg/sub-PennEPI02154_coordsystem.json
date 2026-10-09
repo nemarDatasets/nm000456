@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "n/a",
+  "iEEGCoordinateSystemDescription": "Unknown: no electrode localisation (coordinates, imaging or contact-to-region table) is public for this patient (Pennsieve 696 v2 and the PennEPI releases checked 2026-10-08). electrodes.tsv lists the SEEG contacts from the EDF channel labels with x/y/z = n/a; group = electrode shaft (label prefix)."
+}
