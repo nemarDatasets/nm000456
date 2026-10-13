@@ -52,5 +52,7 @@
       "Name": "b3w9_convert_humanai.py (EDF header date scrub, data records unchanged; annotation CSVs to events.tsv)",
       "Description": "ieeg-nemar-handoff batch 3 (Voyager Kubernetes Jobs)"
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000456",
+  "Version": "1.0.0"
 }
