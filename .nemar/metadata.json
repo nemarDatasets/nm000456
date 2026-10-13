@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Human-AI collaboration for co-managing epilepsy in real time: scalp EEG and SEEG from 13 epilepsy monitoring unit patients",
+  "description": "Continuous video-EEG recordings from 13 patients with epilepsy at the Penn Level 4 Epilepsy Monitoring Unit, comprising scalp EEG (11 patients) and stereo-EEG (2 patients) across 69 recording days. The data support an inpatient prototype in which a conversational AI agent on the patient's smartphone is linked to the EEG, and seizure detection is retrained using patient and clinician feedback. Annotations include seizures, patient push-button events, sleep stages, medications and patient reports made through the human-AI platform. Model outputs are provided as derivatives.",
+  "methods_description": "Continuous scalp EEG (256 Hz, 46 channels) and SEEG (1024 Hz depth contacts) were recorded as one EDF per recording day during clinical monitoring. Annotation CSVs were converted to BIDS events.tsv. Processing for the seizure detection models used a 0.5-100 Hz bandpass for scalp and 0.5-250 Hz for intracranial EEG, 60 and 120 Hz notch filters, and common average or bipolar re-referencing. Dates in the EDF headers were shifted to protect privacy.",
+  "license": "CC-BY-NC-SA-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Haoer Shi": {
       "orcid": "0009-0000-5273-8371"
@@ -31,6 +36,33 @@
       "orcid": "0000-0003-2732-6927"
     }
   },
+  "keywords": [
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "scalp EEG"
+    },
+    {
+      "term": "stereo-EEG"
+    },
+    {
+      "term": "seizure detection"
+    },
+    {
+      "term": "human-AI collaboration"
+    },
+    {
+      "term": "epilepsy monitoring unit"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.26275/xbu9-ulpn",
@@ -108,15 +140,12 @@
       "funder_name": "Burroughs Wellcome Fund"
     }
   ],
-  "title": "Human-AI collaboration for co-managing epilepsy in real time: scalp EEG and SEEG from 13 epilepsy monitoring unit patients",
-  "license": "CC-BY-NC-SA-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg",
     "ieeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "266 GB (356 files)"
   ],
@@ -126,38 +155,8 @@
     ".json",
     ".md",
     ".parquet",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "Scalp EEG and stereo-EEG (SEEG) recordings from 13 patients undergoing continuous video-EEG monitoring in the Penn Level 4 Epilepsy Monitoring Unit. The recordings were collected while a conversational AI agent on the patient's smartphone was linked to seizure detection that was retrained with patient and clinician feedback. Eleven patients had scalp EEG and two had SEEG. The dataset provides one EDF per recording day (69 recordings), event annotations (seizures, patient push-button events, sleep, medications, platform annotations), and derived model outputs.",
-  "methods_description": "Continuous inpatient video-EEG monitoring. Scalp EEG was recorded at 256 Hz with 46 channels, and SEEG at 1024 Hz. Processing used a 0.5-100 Hz bandpass for scalp EEG and 0.5-250 Hz for intracranial EEG, with 60 and 120 Hz notch filters and common average or bipolar re-referencing depending on the algorithm. Annotations came from clinical seizure labels, patient push-button events, and a human-AI smartphone platform. EDF headers were scrubbed of dates, and the data records were left unchanged.",
-  "keywords": [
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    },
-    {
-      "term": "Seizures",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D012640"
-    },
-    {
-      "term": "scalp EEG"
-    },
-    {
-      "term": "stereo-EEG"
-    },
-    {
-      "term": "human-AI collaboration"
-    },
-    {
-      "term": "seizure detection"
-    }
-  ],
-  "source_hash": "c6870f8f3885f3eb397fb341fda6d768408c217b1cdae3ad7883db7779d3f0ae"
+  "source_hash": "19494121a42778ddb53c19633029d6c29cfde89e9817aec2e22898f16b673c34"
 }
