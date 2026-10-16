@@ -1,2 +1,5 @@
+1.0.2 2026-10-16
+  - Replace the citation-style Name with the descriptive dataset title supported by the README and the prior public dataset description.
+
 1.0.0 2026-10-08
   - BIDS conversion of Pennsieve 696 v2 (doi:10.26275/xbu9-ulpn) for NEMAR: EDF header dates day -> 01 (data records unchanged), annotation CSVs -> events.tsv, intermediate_data -> derivatives/.

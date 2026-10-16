@@ -1,5 +1,5 @@
 {
-  "Name": "Goldblum-2026-implantable-10.64898/2026.01.26.26344234",
+  "Name": "Human-AI collaboration for co-managing epilepsy in real time: scalp EEG and SEEG from 13 epilepsy monitoring unit patients",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC-BY-NC-SA-4.0",
@@ -54,5 +54,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000456",
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
