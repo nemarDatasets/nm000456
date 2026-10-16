@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Goldblum-2026-implantable-10.64898/2026.01.26.26344234",
+  "title": "Human-AI collaboration for co-managing epilepsy in real time: scalp EEG and SEEG from 13 epilepsy monitoring unit patients",
   "description": "Continuous inpatient video-EEG recordings from 13 epilepsy patients in the Penn Level 4 Epilepsy Monitoring Unit, used to prototype a conversational AI agent on the patient's smartphone linked to seizure detection. Eleven patients have scalp EEG and two have stereo-EEG (SEEG). The dataset includes 69 daily EDF recordings, annotations (seizures, patient events, sleep, medications, platform annotations) and derivative model outputs from seizure detection retrained with patient and clinician feedback.",
   "methods_description": "Patients underwent continuous video-EEG monitoring, with scalp EEG recorded at 256 Hz and SEEG at 1024 Hz. Seizure detection used bandpass filtering of 0.5-100 Hz (scalp) and 0.5-250 Hz (iEEG), with 60 and 120 Hz notch filters and common-average or bipolar re-referencing. Patient and clinician feedback through a smartphone-based conversational AI platform was used to retrain the models. Annotation CSVs were converted to BIDS events.tsv, and dates in the EDF headers were scrubbed without altering the data records.",
   "license": "CC-BY-NC-SA-4.0",
@@ -158,5 +158,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "f78fa792ec37b08d2f4965e75a1f66143f08bcbf00e4749d9a7e772d6dc64880"
+  "source_hash": "344d8b34a41835dc1e68f2518638c7cb51ed2604d8f1267fbd1ce74d2899c9dd"
 }
